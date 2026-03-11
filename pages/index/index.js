@@ -115,7 +115,11 @@ Page({
     wx.navigateTo({ url: `/pages/search/search?keyword=${encodeURIComponent(keyword)}` })
   },
 
-  onCategoryTap() {
+  onCategoryTap(e) {
+    const categoryId = e.currentTarget.dataset.id
+    // 存储到全局数据，tabbar页面通过onShow读取
+    const app = getApp()
+    app.globalData.selectedCategoryId = categoryId
     wx.switchTab({ url: '/pages/category/category' })
   },
 

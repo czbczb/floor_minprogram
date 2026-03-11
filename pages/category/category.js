@@ -4,6 +4,8 @@ const auth = require('../../utils/auth.js')
 
 Page({
   data: {
+    // 从首页传来的顶级分类ID
+    topCategoryId: null,
     // 左侧所有二级分类列表
     leftCategories: [],
     leftIndex: 0,
@@ -25,7 +27,17 @@ Page({
   },
 
   onShow() {
-    this.loadCategories()
+    // 检查全局数据中是否有选中的分类
+    const app = getApp()
+    const newTopCategoryId = app.globalData.selectedCategoryId
+    if (newTopCategoryId) {
+      app.globalData.selectedCategoryId = null // 清除
+      this.setData({ topCategoryId: newTopCategoryId }, () => {
+        this.loadCategories()
+      })
+    } else {
+      this.loadCategories()
+    }
     this.checkLoginStatus()
   },
 
@@ -43,16 +55,25 @@ Page({
       const res = await db.categoriesDB.getAll()
       
       if (res.data && res.data.length > 0) {
-        // 有真实数据
+        // 有真实数据 - 只获取二级分类（level=2）
         const allCategories = res.data
-        const level2 = allCategories.filter(c => c.parentId && c.parentId !== '')
+        const level2 = allCategories.filter(c => c.level == "11")
+        console.log('加载分类数据', allCategories)
+        console.log('加载分类数据', level2)
         
         this.setData({
-          leftCategories: level2
+          leftCategories: level2,
+          allCategories: allCategories
         })
         
-        // 默认选中第一个
-        if (level2.length > 0) {
+        // 如果有顶级分类ID，自动选中该分类下的第一个二级分类
+        if (this.data.topCategoryId) {
+          const firstSubCat = level2.find(c => c.parentId === this.data.topCategoryId)
+          if (firstSubCat) {
+            this.selectCategory(firstSubCat)
+          }
+        } else if (level2.length > 0) {
+          // 默认选中第一个
           this.selectCategory(level2[0])
         }
       } else {
@@ -70,10 +91,17 @@ Page({
     const level2 = allCategories.filter(c => c.parentId && c.parentId !== '')
     
     this.setData({
-      leftCategories: level2
+      leftCategories: level2,
+      allCategories: allCategories
     })
     
-    if (level2.length > 0) {
+    // 如果有顶级分类ID，自动选中该分类下的第一个二级分类
+    if (this.data.topCategoryId) {
+      const firstSubCat = level2.find(c => c.parentId === this.data.topCategoryId)
+      if (firstSubCat) {
+        this.selectCategory(firstSubCat)
+      }
+    } else if (level2.length > 0) {
       this.selectCategory(level2[0])
     }
   },
@@ -136,3 +164,4 @@ Page({
     auth.doLogin(this)
   }
 })
+

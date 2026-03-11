@@ -3,7 +3,8 @@ App({
   globalData: {
     userInfo: null,
     role: 'user', // 'admin' 或 'user'
-    isLoggedIn: false
+    isLoggedIn: false,
+    selectedCategoryId: null
   },
 
   onLaunch() {

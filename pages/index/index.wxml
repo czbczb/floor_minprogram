@@ -34,7 +34,7 @@
 
   <!-- 分类入口 -->
   <view class="category-grid">
-    <view class="category-card" wx:for="{{categories}}" wx:key="id" bindtap="onCategoryTap">
+    <view class="category-card" wx:for="{{categories}}" wx:key="id" bindtap="onCategoryTap" data-id="{{item._id}}">
       <image class="category-image" src="{{item.image}}" mode="aspectFill"/>
       <view class="category-name">{{item.name}}</view>
     </view>
