@@ -1,0 +1,111 @@
+<!--pages/category/manage.wxml-->
+<view class="container">
+  <!-- 分类树形列表 -->
+  <view class="category-tree">
+    <block wx:for="{{categories}}" wx:key="_id">
+      <view wx:if="{{!item.parentId || item.parentId === ''}}" class="category-item level-{{item.level}}">
+        <view class="category-content">
+          <view class="category-name">{{item.name}}</view>
+          <view class="category-level">{{item.level}}级</view>
+        </view>
+        <view class="category-actions">
+          <text class="action-btn add" bindtap="onAddCategory" data-parentid="{{item._id}}" data-level="{{item.level + 1}}" wx:if="{{item.level < 4}}">添加子分类</text>
+          <text class="action-btn edit" bindtap="onEditCategory" data-id="{{item._id}}" data-name="{{item.name}}">编辑</text>
+          <text class="action-btn delete" bindtap="onDeleteCategory" data-id="{{item._id}}">删除</text>
+        </view>
+        
+        <!-- 二级分类 -->
+        <block wx:for="{{categories}}" wx:for-item="level2" wx:key="_id">
+          <view wx:if="{{level2.parentId === item._id}}" class="category-item level-{{level2.level}}">
+            <view class="category-content">
+              <view class="category-name">├─ {{level2.name}}</view>
+              <view class="category-level">{{level2.level}}级</view>
+            </view>
+            <view class="category-actions">
+              <text class="action-btn add" bindtap="onAddCategory" data-parentid="{{level2._id}}" data-level="{{level2.level + 1}}" wx:if="{{level2.level < 4}}">添加子分类</text>
+              <text class="action-btn edit" bindtap="onEditCategory" data-id="{{level2._id}}" data-name="{{level2.name}}">编辑</text>
+              <text class="action-btn delete" bindtap="onDeleteCategory" data-id="{{level2._id}}">删除</text>
+            </view>
+            
+            <!-- 三级分类 -->
+            <block wx:for="{{categories}}" wx:for-item="level3" wx:key="_id">
+              <view wx:if="{{level3.parentId === level2._id}}" class="category-item level-{{level3.level}}">
+                <view class="category-content">
+                  <view class="category-name">├─ ├─ {{level3.name}}</view>
+                  <view class="category-level">{{level3.level}}级</view>
+                </view>
+                <view class="category-actions">
+                  <text class="action-btn add" bindtap="onAddCategory" data-parentid="{{level3._id}}" data-level="{{level3.level + 1}}" wx:if="{{level3.level < 4}}">添加子分类</text>
+                  <text class="action-btn edit" bindtap="onEditCategory" data-id="{{level3._id}}" data-name="{{level3.name}}">编辑</text>
+                  <text class="action-btn delete" bindtap="onDeleteCategory" data-id="{{level3._id}}">删除</text>
+                </view>
+                
+                <!-- 四级分类 -->
+                <block wx:for="{{categories}}" wx:for-item="level4" wx:key="_id">
+                  <view wx:if="{{level4.parentId === level3._id}}" class="category-item level-{{level4.level}}">
+                    <view class="category-content">
+                      <view class="category-name">├─ ├─ ├─ {{level4.name}}</view>
+                      <view class="category-level">{{level4.level}}级</view>
+                    </view>
+                    <view class="category-actions">
+                      <text class="action-btn edit" bindtap="onEditCategory" data-id="{{level4._id}}" data-name="{{level4.name}}">编辑</text>
+                      <text class="action-btn delete" bindtap="onDeleteCategory" data-id="{{level4._id}}">删除</text>
+                    </view>
+                  </view>
+                </block>
+              </view>
+            </block>
+          </view>
+        </block>
+      </view>
+    </block>
+  </view>
+
+  <!-- 空状态 -->
+  <view class="empty" wx:if="{{!loading && categories.length === 0}}">
+    <text>暂无分类，请添加</text>
+  </view>
+
+  <!-- 加载中 -->
+  <view class="loading" wx:if="{{loading}}">
+    <text>加载中...</text>
+  </view>
+
+  <!-- 添加分类弹窗 -->
+  <view class="modal-mask" wx:if="{{showAddModal}}">
+    <view class="modal">
+      <view class="modal-title">添加分类</view>
+      <view class="modal-content">
+        <input 
+          class="input" 
+          placeholder="请输入分类名称" 
+          value="{{newCategoryName}}"
+          bindinput="onInputCategoryName"
+        />
+      </view>
+      <view class="modal-actions">
+        <view class="modal-btn cancel" bindtap="onCloseAddModal">取消</view>
+        <view class="modal-btn confirm" bindtap="onConfirmAdd">确定</view>
+      </view>
+    </view>
+  </view>
+
+  <!-- 编辑分类弹窗 -->
+  <view class="modal-mask" wx:if="{{showEditModal}}">
+    <view class="modal">
+      <view class="modal-title">编辑分类</view>
+      <view class="modal-content">
+        <input 
+          class="input" 
+          placeholder="请输入分类名称" 
+          value="{{editCategoryName}}"
+          bindinput="onInputEditName"
+        />
+      </view>
+      <view class="modal-actions">
+        <view class="modal-btn cancel" bindtap="onCloseEditModal">取消</view>
+        <view class="modal-btn confirm" bindtap="onConfirmEdit">确定</view>
+      </view>
+    </view>
+  </view>
+</view>

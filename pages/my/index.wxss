@@ -1,0 +1,112 @@
+/* pages/my/index.wxss */
+.user-section {
+  display: flex;
+  align-items: center;
+  background: linear-gradient(135deg, #0066CC, #0099FF);
+  padding: 60rpx 30rpx;
+}
+
+.user-avatar {
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 60rpx;
+  overflow: hidden;
+  margin-right: 30rpx;
+  border: 4rpx solid rgba(255, 255, 255, 0.3);
+}
+
+.avatar {
+  width: 100%;
+  height: 100%;
+}
+
+.user-info {
+  flex: 1;
+}
+
+.nickname {
+  font-size: 36rpx;
+  color: #ffffff;
+  font-weight: bold;
+  margin-bottom: 10rpx;
+}
+
+.role-tag {
+  display: inline-block;
+  padding: 6rpx 16rpx;
+  border-radius: 20rpx;
+  font-size: 24rpx;
+}
+
+.role-tag.admin {
+  background-color: #FF4D4F;
+  color: #ffffff;
+}
+
+.role-tag.user {
+  background-color: rgba(255, 255, 255, 0.3);
+  color: #ffffff;
+}
+
+.login-btn-section {
+  padding: 40rpx 30rpx;
+}
+
+.btn {
+  width: 100%;
+}
+
+.menu-section {
+  background-color: #ffffff;
+}
+
+.menu-title {
+  padding: 20rpx 30rpx;
+  font-size: 28rpx;
+  color: #999999;
+  background-color: #F5F5F5;
+}
+
+.menu-item {
+  display: flex;
+  align-items: center;
+  padding: 30rpx;
+  border-bottom: 1rpx solid #F5F5F5;
+}
+
+.menu-item:last-child {
+  border-bottom: none;
+}
+
+.menu-icon {
+  width: 48rpx;
+  font-size: 36rpx;
+  margin-right: 20rpx;
+}
+
+.menu-text {
+  flex: 1;
+  font-size: 30rpx;
+  color: #333333;
+}
+
+.menu-arrow {
+  font-size: 36rpx;
+  color: #999999;
+}
+
+.menu-item.logout .menu-text {
+  color: #FF4D4F;
+}
+
+.divider {
+  height: 20rpx;
+  background-color: #F5F5F5;
+}
+
+.tip-section {
+  text-align: center;
+  padding: 60rpx 0;
+  color: #999999;
+  font-size: 28rpx;
+}

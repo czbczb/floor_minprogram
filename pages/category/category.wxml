@@ -1,0 +1,57 @@
+<!--pages/category/category.wxml-->
+<view class="container">
+  <!-- 左侧二级分类列表 -->
+  <scroll-view class="left-sidebar" scroll-y>
+    <view 
+      class="left-item {{index === leftIndex ? 'active' : ''}}"
+      wx:for="{{leftCategories}}"
+      wx:key="_id"
+      bindtap="onLeftTap"
+      data-index="{{index}}"
+    >
+      <text class="left-text">{{item.name}}</text>
+    </view>
+  </scroll-view>
+
+  <!-- 右侧内容区 -->
+  <view class="right-content">
+    <!-- 产品列表（占满宽度） -->
+    <scroll-view class="product-scroll" scroll-y>
+      <view class="product-list">
+        <view 
+          class="product-card-full" 
+          wx:for="{{products}}"
+          wx:key="_id"
+          bindtap="onProductTap"
+          data-id="{{item._id}}"
+        >
+          <image 
+            class="product-image" 
+            src="{{item.images[0]}}" 
+            mode="aspectFill"
+          />
+          <view class="product-info">
+            <view class="product-name">{{item.name}}</view>
+            <view class="product-desc" wx:if="{{item.description}}">{{item.description}}</view>
+          </view>
+        </view>
+      </view>
+
+      <!-- 空状态 -->
+      <view class="empty" wx:if="{{products.length === 0}}">
+        <text>暂无产品</text>
+      </view>
+    </scroll-view>
+  </view>
+
+  <!-- 登录弹窗 -->
+  <view class="login-modal-mask" wx:if="{{showLoginModal}}" bindtap="onCloseLoginModal"></view>
+  <view class="login-modal" wx:if="{{showLoginModal}}">
+    <view class="login-title">登录提示</view>
+    <view class="login-content">查看产品详情需要先登录</view>
+    <view class="login-buttons">
+      <button class="login-cancel" bindtap="onCloseLoginModal">取消</button>
+      <button class="login-confirm" bindtap="onDoLogin">立即登录</button>
+    </view>
+  </view>
+</view>

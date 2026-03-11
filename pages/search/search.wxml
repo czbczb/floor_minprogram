@@ -1,0 +1,59 @@
+<!--pages/search/search.wxml-->
+<view class="container">
+  <!-- 搜索栏 -->
+  <view class="search-bar">
+    <view class="search-input-wrap">
+      <icon type="search" size="16" color="#999"/>
+      <input 
+        class="search-input" 
+        placeholder="搜索地板产品" 
+        value="{{keyword}}"
+        bindinput="onSearchInput"
+        bindconfirm="onSearch"
+      />
+    </view>
+    <button class="search-btn" bindtap="onSearch">搜索</button>
+  </view>
+
+  <!-- 搜索结果 -->
+  <view class="result-info" wx:if="{{keyword}}">
+    <text>搜索: "{{keyword}}"</text>
+    <text class="result-count">找到 {{products.length}} 个结果</text>
+  </view>
+
+  <!-- 产品列表 -->
+  <view class="product-grid" wx:if="{{products.length > 0}}">
+    <view class="product-card" wx:for="{{products}}" wx:key="id" bindtap="onProductTap" data-id="{{item._id || item.id}}">
+      <image class="product-image" src="{{item.image}}" mode="aspectFill"/>
+      <view class="product-info">
+        <text class="product-name">{{item.name}}</text>
+        <text class="product-desc">{{item.description}}</text>
+        <view class="product-bottom">
+          <text class="product-price">¥{{item.price}}/平</text>
+          <text class="product-spec">{{item.spec}}</text>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <!-- 无结果 -->
+  <view class="empty" wx:elif="{{keyword}}">
+    <text>未找到相关产品</text>
+  </view>
+
+  <!-- 初始状态 -->
+  <view class="init" wx:else>
+    <text>请输入搜索关键字</text>
+  </view>
+
+  <!-- 登录弹窗 -->
+  <view class="login-modal-mask" wx:if="{{showLoginModal}}" bindtap="onCloseLoginModal"></view>
+  <view class="login-modal" wx:if="{{showLoginModal}}">
+    <view class="login-title">登录提示</view>
+    <view class="login-content">查看产品详情需要先登录</view>
+    <view class="login-buttons">
+      <button class="login-cancel" bindtap="onCloseLoginModal">取消</button>
+      <button class="login-confirm" bindtap="onDoLogin">立即登录</button>
+    </view>
+  </view>
+</view>

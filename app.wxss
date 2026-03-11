@@ -1,0 +1,155 @@
+/** app.wxss **/
+page {
+  background-color: #F5F5F5;
+  font-size: 28rpx;
+  color: #333333;
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 0;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 12rpx;
+  padding: 20rpx;
+  margin: 20rpx;
+  box-shadow: 0 2rpx 8rpx rgba(0, 0, 0, 0.05);
+}
+
+.btn {
+  height: 88rpx;
+  line-height: 88rpx;
+  text-align: center;
+  border-radius: 44rpx;
+  font-size: 32rpx;
+  font-weight: 500;
+}
+
+.btn-primary {
+  background-color: #0066CC;
+  color: #ffffff;
+}
+
+.btn-primary:active {
+  background-color: #0052a3;
+}
+
+.btn-default {
+  background-color: #ffffff;
+  color: #333333;
+  border: 1rpx solid #E5E5E5;
+}
+
+.btn-default:active {
+  background-color: #F5F5F5;
+}
+
+.btn-danger {
+  background-color: #FF4D4F;
+  color: #ffffff;
+}
+
+.btn-danger:active {
+  background-color: #e64446;
+}
+
+.input {
+  height: 80rpx;
+  padding: 0 20rpx;
+  background-color: #F5F5F5;
+  border-radius: 8rpx;
+  font-size: 28rpx;
+}
+
+.textarea {
+  padding: 20rpx;
+  background-color: #F5F5F5;
+  border-radius: 8rpx;
+  font-size: 28rpx;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.tag {
+  display: inline-block;
+  padding: 8rpx 16rpx;
+  font-size: 24rpx;
+  border-radius: 4rpx;
+}
+
+.tag-primary {
+  background-color: #E3F2FD;
+  color: #0066CC;
+}
+
+.title {
+  font-size: 32rpx;
+  font-weight: bold;
+  margin-bottom: 20rpx;
+}
+
+.subtitle {
+  font-size: 28rpx;
+  font-weight: 500;
+  margin-bottom: 16rpx;
+}
+
+.divider {
+  height: 1rpx;
+  background-color: #E5E5E5;
+  margin: 20rpx 0;
+}
+
+.list-item {
+  display: flex;
+  align-items: center;
+  padding: 24rpx 0;
+  border-bottom: 1rpx solid #E5E5E5;
+}
+
+.list-item:last-child {
+  border-bottom: none;
+}
+
+.empty {
+  text-align: center;
+  padding: 100rpx 0;
+  color: #999999;
+}
+
+.loading {
+  text-align: center;
+  padding: 40rpx 0;
+  color: #999999;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex-between {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.mt-10 { margin-top: 10rpx; }
+.mt-20 { margin-top: 20rpx; }
+.mt-30 { margin-top: 30rpx; }
+.mb-10 { margin-bottom: 10rpx; }
+.mb-20 { margin-bottom: 20rpx; }
+.mb-30 { margin-bottom: 30rpx; }
+.ml-10 { margin-left: 10rpx; }
+.mr-10 { margin-right: 10rpx; }

@@ -1,0 +1,70 @@
+<!--pages/my/index.wxml-->
+<view class="container">
+  <!-- 用户信息区域 -->
+  <view class="user-section">
+    <view class="user-avatar" wx:if="{{userInfo}}">
+      <image class="avatar" src="{{userInfo.avatarUrl || '/images/default-avatar.png'}}" mode="aspectFill"/>
+    </view>
+    <view class="user-avatar" wx:else>
+      <image class="avatar" src="/images/default-avatar.png" mode="aspectFill"/>
+    </view>
+    
+    <view class="user-info" wx:if="{{isLoggedIn}}">
+      <view class="nickname">{{userInfo.nickName || '用户'}}</view>
+      <view class="role-tag {{isAdmin ? 'admin' : 'user'}}">
+        {{isAdmin ? '管理员' : '普通用户'}}
+      </view>
+    </view>
+    <view class="user-info" wx:else>
+      <view class="nickname">未登录</view>
+    </view>
+  </view>
+
+  <!-- 登录按钮 -->
+  <view class="login-btn-section" wx:if="{{!isLoggedIn}}">
+    <button class="btn btn-primary" bindtap="onLogin">微信登录</button>
+  </view>
+
+  <!-- 功能菜单 -->
+  <view class="menu-section" wx:if="{{isLoggedIn}}">
+    <!-- 角色切换 -->
+    <view class="menu-item" bindtap="onSwitchRole" wx:if="{{isAdmin}}">
+      <view class="menu-icon">🔄</view>
+      <view class="menu-text">切换为{{role === 'admin' ? '普通用户' : '管理员'}}</view>
+    </view>
+    
+    <!-- 分割线 -->
+    <view class="divider"></view>
+    
+    <!-- 管理入口 -->
+    <view class="menu-title" wx:if="{{isAdmin}}">管理功能</view>
+    
+    <!-- 分类管理 -->
+    <view class="menu-item" bindtap="onNavigateToCategoryManage" wx:if="{{isAdmin}}">
+      <view class="menu-icon">📁</view>
+      <view class="menu-text">分类管理</view>
+      <view class="menu-arrow">›</view>
+    </view>
+    
+    <!-- 产品管理 -->
+    <view class="menu-item" bindtap="onNavigateToProductManage" wx:if="{{isAdmin}}">
+      <view class="menu-icon">🛍️</view>
+      <view class="menu-text">产品管理</view>
+      <view class="menu-arrow">›</view>
+    </view>
+
+    <!-- 分割线 -->
+    <view class="divider"></view>
+    
+    <!-- 注销按钮 -->
+    <view class="menu-item logout" bindtap="onLogout">
+      <view class="menu-icon">📴</view>
+      <view class="menu-text">注销登录</view>
+    </view>
+  </view>
+
+  <!-- 未登录提示 -->
+  <view class="tip-section" wx:if="{{!isLoggedIn}}">
+    <text>登录后可查看和管理地板产品</text>
+  </view>
+</view>

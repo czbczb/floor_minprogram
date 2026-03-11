@@ -1,0 +1,100 @@
+<!--pages/product/detail.wxml-->
+<view class="container" wx:if="{{product}}">
+  <!-- 产品图片轮播 -->
+  <view class="swiper-container">
+    <swiper 
+      class="product-swiper" 
+      indicator-dots 
+      autoplay 
+      circular
+      bindchange="onSwiperChange"
+    >
+      <swiper-item 
+        wx:for="{{product.images}}" 
+        wx:key="*this"
+        bindtap="onPreviewImage"
+      >
+        <image 
+          class="swiper-image" 
+          src="{{item}}" 
+          mode="aspectFill"
+        />
+      </swiper-item>
+    </swiper>
+    <view class="swiper-indicator" wx:if="{{product.images.length > 0}}">
+      {{currentImageIndex + 1}}/{{product.images.length}}
+    </view>
+  </view>
+
+  <!-- 产品基本信息 -->
+  <view class="product-base card">
+    <view class="product-name">{{product.name}}</view>
+    <view class="product-desc" wx:if="{{product.description}}">{{product.description}}</view>
+  </view>
+
+  <!-- 产品规格 -->
+  <view class="product-specs card" wx:if="{{product.specifications && product.specifications.length > 0}}">
+    <view class="section-title">规格参数</view>
+    <view class="spec-item" wx:for="{{product.specifications}}" wx:key="index">
+      <text class="spec-name">{{item.name}}:</text>
+      <text class="spec-value">{{item.value}}</text>
+    </view>
+  </view>
+
+  <!-- 产品详情图片 -->
+  <view class="product-details card" wx:if="{{product.detailImages && product.detailImages.length > 0}}">
+    <view class="section-title">详情介绍</view>
+    <view class="detail-images">
+      <image 
+        wx:for="{{product.detailImages}}" 
+        wx:key="*this"
+        class="detail-image"
+        src="{{item}}"
+        mode="widthFix"
+        bindtap="onPreviewDetailImage"
+        data-src="{{item}}"
+        data-images="{{product.detailImages}}"
+      />
+    </view>
+  </view>
+
+  <!-- 空状态 -->
+  <view class="empty-detail" wx:if="{{!product.images.length && !product.description && !product.specifications.length}}">
+    <text>暂无详情信息</text>
+  </view>
+
+  <!-- 底部操作栏 -->
+  <view class="bottom-bar">
+    <view class="bar-item" bindtap="onShareAppMessage">
+      <text class="icon">📤</text>
+      <text>分享</text>
+    </view>
+    <view class="bar-item" bindtap="checkLogin">
+      <text class="icon">⭐</text>
+      <text>收藏</text>
+    </view>
+    <view class="bar-item contact">
+      <text class="icon">📞</text>
+      <text>联系</text>
+    </view>
+  </view>
+</view>
+
+<!-- 加载中 -->
+<view class="loading" wx:if="{{loading}}">
+  <text>加载中...</text>
+</view>
+
+<!-- 登录弹窗 -->
+<view class="modal-mask" wx:if="{{showLoginModal}}">
+  <view class="modal">
+    <view class="modal-title">提示</view>
+    <view class="modal-content">
+      <text>请先登录后再进行操作</text>
+    </view>
+    <view class="modal-actions">
+      <view class="modal-btn cancel" bindtap="onCloseLoginModal">取消</view>
+      <view class="modal-btn confirm" bindtap="onGoToLogin">去登录</view>
+    </view>
+  </view>
+</view>

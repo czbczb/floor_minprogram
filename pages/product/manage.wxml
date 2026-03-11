@@ -1,0 +1,169 @@
+<!--pages/product/manage.wxml-->
+<view class="container">
+  <!-- 产品列表 -->
+  <view class="product-list">
+    <view 
+      class="product-item" 
+      wx:for="{{products}}" 
+      wx:key="_id"
+    >
+      <image 
+        class="product-thumb" 
+        src="{{item.images[0] || '/images/placeholder.png'}}" 
+        mode="aspectFill"
+      />
+      <view class="product-info">
+        <view class="product-name">{{item.name}}</view>
+        <view class="product-category" wx:if="{{item.categoryPath}}">{{item.categoryPath}}</view>
+        <view class="product-price" wx:if="{{item.price > 0}}">¥{{item.price}}</view>
+      </view>
+      <view class="product-actions">
+        <text class="action-btn edit" bindtap="onEditProduct" data-product="{{item}}">编辑</text>
+        <text class="action-btn delete" bindtap="onDeleteProduct" data-id="{{item._id}}">删除</text>
+      </view>
+    </view>
+  </view>
+
+  <!-- 空状态 -->
+  <view class="empty" wx:if="{{!loading && products.length === 0}}">
+    <text>暂无产品，请添加</text>
+  </view>
+
+  <!-- 加载中 -->
+  <view class="loading" wx:if="{{loading}}">
+    <text>加载中...</text>
+  </view>
+
+  <!-- 添加按钮 -->
+  <view class="add-btn" bindtap="onAddProduct">
+    <text>+ 添加产品</text>
+  </view>
+
+  <!-- 编辑弹窗 -->
+  <view class="modal-mask" wx:if="{{showEditModal}}">
+    <view class="modal modal-large">
+      <view class="modal-title">{{editingProduct ? '编辑产品' : '添加产品'}}</view>
+      
+      <scroll-view scroll-y class="modal-content">
+        <!-- 分类选择 -->
+        <view class="form-group">
+          <view class="form-label">选择分类</view>
+          <picker 
+            mode="multiSelector" 
+            bindchange="onCategoryChange" 
+            bindcolumnchange="onCategoryColumnChange"
+            value="{{categoryIndex}}"
+            range="{{categoryLevels}}"
+          >
+            <view class="picker">
+              {{formData.categoryPath || '请选择分类'}}
+            </view>
+          </picker>
+        </view>
+
+        <!-- 产品名称 -->
+        <view class="form-group">
+          <view class="form-label">产品名称</view>
+          <input 
+            class="input" 
+            placeholder="请输入产品名称" 
+            value="{{formData.name}}"
+            bindinput="onInputName"
+          />
+        </view>
+
+        <!-- 产品描述 -->
+        <view class="form-group">
+          <view class="form-label">产品描述</view>
+          <textarea 
+            class="textarea" 
+            placeholder="请输入产品描述" 
+            value="{{formData.description}}"
+            bindinput="onInputDescription"
+          />
+        </view>
+
+        <!-- 价格 -->
+        <view class="form-group">
+          <view class="form-label">价格</view>
+          <input 
+            class="input" 
+            type="digit" 
+            placeholder="请输入价格" 
+            value="{{formData.price}}"
+            bindinput="onInputPrice"
+          />
+        </view>
+
+        <!-- 爆款标记 -->
+        <view class="form-group">
+          <view class="form-label">设为爆款</view>
+          <switch 
+            checked="{{formData.isHot}}" 
+            bindchange="onToggleHot"
+            color="#0066CC"
+          />
+        </view>
+
+        <!-- 规格 -->
+        <view class="form-group">
+          <view class="form-label">规格参数</view>
+          <view class="spec-list">
+            <view class="spec-item" wx:for="{{formData.specifications}}" wx:key="index">
+              <text>{{item.name}}: {{item.value}}</text>
+              <text class="spec-remove" bindtap="removeSpecification" data-index="{{index}}">×</text>
+            </view>
+          </view>
+          <view class="spec-input">
+            <input class="input" placeholder="规格名称" value="{{specName}}" bindinput="onInputSpecName"/>
+            <input class="input" placeholder="规格值" value="{{specValue}}" bindinput="onInputSpecValue"/>
+            <view class="spec-add-btn" bindtap="addSpecification">添加</view>
+          </view>
+        </view>
+
+        <!-- 产品图片 -->
+        <view class="form-group">
+          <view class="form-label">产品图片 (最多9张)</view>
+          <view class="image-list">
+            <view class="image-item" wx:for="{{formData.images}}" wx:key="*this">
+              <image src="{{item}}" mode="aspectFill"/>
+            </view>
+            <view class="image-item add" bindtap="chooseImages" wx:if="{{formData.images.length < 9}}">
+              <text>+</text>
+            </view>
+          </view>
+          <view class="image-list" wx:if="{{tempImages.length > 0}}">
+            <view class="image-item" wx:for="{{tempImages}}" wx:key="*this">
+              <image src="{{item}}" mode="aspectFill"/>
+              <view class="image-remove" bindtap="removeTempImage" data-index="{{index}}">×</view>
+            </view>
+          </view>
+        </view>
+
+        <!-- 详情图片 -->
+        <view class="form-group">
+          <view class="form-label">详情图片 (最多20张)</view>
+          <view class="image-list">
+            <view class="image-item" wx:for="{{formData.detailImages}}" wx:key="*this">
+              <image src="{{item}}" mode="aspectFill"/>
+            </view>
+            <view class="image-item add" bindtap="chooseDetailImages" wx:if="{{formData.detailImages.length < 20}}">
+              <text>+</text>
+            </view>
+          </view>
+          <view class="image-list" wx:if="{{tempDetailImages.length > 0}}">
+            <view class="image-item" wx:for="{{tempDetailImages}}" wx:key="*this">
+              <image src="{{item}}" mode="aspectFill"/>
+              <view class="image-remove" bindtap="removeTempDetailImage" data-index="{{index}}">×</view>
+            </view>
+          </view>
+        </view>
+      </scroll-view>
+
+      <view class="modal-actions">
+        <view class="modal-btn cancel" bindtap="onCloseModal">取消</view>
+        <view class="modal-btn confirm" bindtap="onSaveProduct">保存</view>
+      </view>
+    </view>
+  </view>
+</view>

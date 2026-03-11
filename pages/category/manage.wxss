@@ -1,0 +1,148 @@
+/* pages/category/manage.wxss */
+.category-tree {
+  padding: 20rpx;
+}
+
+.category-item {
+  background-color: #ffffff;
+  margin-bottom: 16rpx;
+  border-radius: 12rpx;
+  padding: 20rpx;
+}
+
+.category-item.level-1 {
+  margin-left: 0;
+}
+
+.category-item.level-2 {
+  margin-left: 40rpx;
+}
+
+.category-item.level-3 {
+  margin-left: 80rpx;
+}
+
+.category-item.level-4 {
+  margin-left: 120rpx;
+}
+
+.category-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16rpx;
+}
+
+.category-name {
+  font-size: 30rpx;
+  color: #333333;
+  font-weight: 500;
+}
+
+.category-level {
+  font-size: 24rpx;
+  color: #999999;
+}
+
+.category-actions {
+  display: flex;
+  gap: 20rpx;
+}
+
+.action-btn {
+  font-size: 26rpx;
+  padding: 8rpx 16rpx;
+  border-radius: 6rpx;
+}
+
+.action-btn.add {
+  background-color: #E3F2FD;
+  color: #0066CC;
+}
+
+.action-btn.edit {
+  background-color: #E3F2FD;
+  color: #0066CC;
+}
+
+.action-btn.delete {
+  background-color: #FFEBEE;
+  color: #FF4D4F;
+}
+
+.empty {
+  text-align: center;
+  padding: 200rpx 0;
+  color: #999999;
+}
+
+.loading {
+  text-align: center;
+  padding: 40rpx 0;
+  color: #999999;
+}
+
+/* 弹窗样式 */
+.modal-mask {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.modal {
+  width: 600rpx;
+  background-color: #ffffff;
+  border-radius: 16rpx;
+  overflow: hidden;
+}
+
+.modal-title {
+  font-size: 32rpx;
+  font-weight: bold;
+  text-align: center;
+  padding: 30rpx;
+  border-bottom: 1rpx solid #E5E5E5;
+}
+
+.modal-content {
+  padding: 30rpx;
+}
+
+.input {
+  width: 100%;
+  height: 80rpx;
+  padding: 0 20rpx;
+  background-color: #F5F5F5;
+  border-radius: 8rpx;
+  font-size: 28rpx;
+  box-sizing: border-box;
+}
+
+.modal-actions {
+  display: flex;
+  border-top: 1rpx solid #E5E5E5;
+}
+
+.modal-btn {
+  flex: 1;
+  height: 100rpx;
+  line-height: 100rpx;
+  text-align: center;
+  font-size: 30rpx;
+}
+
+.modal-btn.cancel {
+  color: #666666;
+  border-right: 1rpx solid #E5E5E5;
+}
+
+.modal-btn.confirm {
+  color: #0066CC;
+}
