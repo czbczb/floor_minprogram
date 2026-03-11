@@ -144,6 +144,44 @@ const productsDB = {
     }).orderBy('createTime', 'desc').get()
   },
 
+  // 根据顶级分类获取产品（包括所有子分类）
+  async getByTopCategory(topCategoryId) {
+    try {
+      // 获取所有子分类
+      const categoriesRes = await db.collection('categories').where({
+        parentId: topCategoryId
+      }).get()
+      
+      const categoryIds = [topCategoryId]
+      
+      // 递归获取所有子分类ID
+      const getAllChildIds = async (parentId) => {
+        const childRes = await db.collection('categories').where({
+          parentId: parentId
+        }).get()
+        
+        if (childRes.data && childRes.data.length > 0) {
+          for (const child of childRes.data) {
+            categoryIds.push(child._id)
+            await getAllChildIds(child._id)
+          }
+        }
+      }
+      
+      await getAllChildIds(topCategoryId)
+      
+      // 查询属于这些分类的产品
+      const productsRes = await db.collection('products').where({
+        categoryId: db.command.in(categoryIds)
+      }).orderBy('createTime', 'desc').get()
+      
+      return productsRes
+    } catch (err) {
+      console.error('获取分类产品失败', err)
+      return { data: [] }
+    }
+  },
+
   // 搜索产品
   search(keyword) {
     return db.collection('products').where({

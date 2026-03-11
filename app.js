@@ -51,6 +51,29 @@ App({
     wx.removeStorageSync('role')
   },
 
+  // 从数据库获取最新角色
+  async refreshRole() {
+    try {
+      // 使用云函数获取当前用户信息（包括最新角色）
+      const res = await wx.cloud.callFunction({
+        name: 'getUserInfo'
+      })
+      
+      if (res.result && res.result.user) {
+        const role = res.result.user.role || 'user'
+        
+        // 更新全局数据和本地存储
+        this.globalData.role = role
+        wx.setStorageSync('role', role)
+        
+        return role
+      }
+    } catch (err) {
+      console.error('刷新角色失败', err)
+    }
+    return 'user'
+  },
+
   // 检查是否为管理员
   isAdmin() {
     return this.globalData.role === 'admin'

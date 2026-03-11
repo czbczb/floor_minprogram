@@ -42,8 +42,10 @@ Page({
     this.loadProducts()
   },
 
-  checkPermission() {
-    if (!app.isAdmin()) {
+  async checkPermission() {
+    // 先刷新角色
+    const role = await app.refreshRole()
+    if (role !== 'admin') {
       wx.showModal({
         title: '提示',
         content: '您没有管理权限',

@@ -27,27 +27,18 @@
 
   <!-- 功能菜单 -->
   <view class="menu-section" wx:if="{{isLoggedIn}}">
-    <!-- 角色切换 -->
-    <view class="menu-item" bindtap="onSwitchRole" wx:if="{{isAdmin}}">
-      <view class="menu-icon">🔄</view>
-      <view class="menu-text">切换为{{role === 'admin' ? '普通用户' : '管理员'}}</view>
-    </view>
-    
     <!-- 分割线 -->
     <view class="divider"></view>
     
-    <!-- 管理入口 -->
-    <view class="menu-title" wx:if="{{isAdmin}}">管理功能</view>
-    
     <!-- 分类管理 -->
-    <view class="menu-item" bindtap="onNavigateToCategoryManage" wx:if="{{isAdmin}}">
+    <view class="menu-item" bindtap="onCategoryManage" wx:if="{{isAdmin}}">
       <view class="menu-icon">📁</view>
       <view class="menu-text">分类管理</view>
       <view class="menu-arrow">›</view>
     </view>
     
     <!-- 产品管理 -->
-    <view class="menu-item" bindtap="onNavigateToProductManage" wx:if="{{isAdmin}}">
+    <view class="menu-item" bindtap="onProductManage" wx:if="{{isAdmin}}">
       <view class="menu-icon">🛍️</view>
       <view class="menu-text">产品管理</view>
       <view class="menu-arrow">›</view>

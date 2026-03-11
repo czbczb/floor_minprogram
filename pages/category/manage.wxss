@@ -82,6 +82,22 @@
   color: #999999;
 }
 
+/* 添加顶级分类按钮 */
+.add-top-btn {
+  position: fixed;
+  bottom: 40rpx;
+  left: 30rpx;
+  right: 30rpx;
+  height: 96rpx;
+  line-height: 96rpx;
+  text-align: center;
+  background-color: #0066CC;
+  color: #ffffff;
+  border-radius: 48rpx;
+  font-size: 32rpx;
+  box-shadow: 0 4rpx 20rpx rgba(0, 102, 204, 0.4);
+}
+
 /* 弹窗样式 */
 .modal-mask {
   position: fixed;
@@ -123,6 +139,47 @@
   border-radius: 8rpx;
   font-size: 28rpx;
   box-sizing: border-box;
+}
+
+/* 图片上传样式 */
+.form-group {
+  margin-bottom: 20rpx;
+}
+
+.form-label {
+  font-size: 28rpx;
+  color: #333333;
+  margin-bottom: 16rpx;
+}
+
+.image-upload {
+  width: 200rpx;
+  height: 200rpx;
+  border: 2rpx dashed #CCCCCC;
+  border-radius: 12rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.preview-image {
+  width: 100%;
+  height: 100%;
+}
+
+.upload-placeholder {
+  font-size: 60rpx;
+  color: #CCCCCC;
+}
+
+/* 分类图片 */
+.category-img {
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 8rpx;
+  margin-right: 16rpx;
+  background-color: #F5F5F5;
 }
 
 .modal-actions {

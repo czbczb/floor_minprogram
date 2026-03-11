@@ -53,7 +53,7 @@
 
 /* Banner轮播图 */
 .banner {
-  margin: 0 20rpx;
+  margin: 20rpx 20rpx;
 }
 
 .banner-swiper {

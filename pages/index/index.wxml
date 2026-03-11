@@ -20,7 +20,7 @@
     <swiper class="banner-swiper" indicator-dots indicator-color="rgba(255,255,255,0.5)" indicator-active-color="#fff" autoplay circular>
       <swiper-item wx:for="{{bannerProducts}}" wx:key="id" bindtap="onBannerTap" data-id="{{item._id || item.id}}">
         <view class="banner-item">
-          <image class="banner-image" src="{{item.image}}" mode="aspectFill"/>
+          <image class="banner-image" src="{{item.images[0]}}" mode="aspectFill"/>
           <view class="banner-info">
             <text class="banner-name">{{item.name}}</text>
           </view>
@@ -33,18 +33,11 @@
   </view>
 
   <!-- 分类入口 -->
-  <view class="section-title">地板分类</view>
   <view class="category-grid">
     <view class="category-card" wx:for="{{categories}}" wx:key="id" bindtap="onCategoryTap">
       <image class="category-image" src="{{item.image}}" mode="aspectFill"/>
       <view class="category-name">{{item.name}}</view>
     </view>
-  </view>
-
-  <!-- 查看更多分类 -->
-  <view class="view-more" bindtap="onCategoryTap">
-    <text>查看更多分类</text>
-    <text class="arrow">></text>
   </view>
 
   <!-- 登录弹窗 -->

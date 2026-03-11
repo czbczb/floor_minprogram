@@ -15,7 +15,12 @@ Page({
   },
 
   onShow() {
-    this.checkLoginStatus()
+    // 每次显示页面时都检查最新角色
+    if (this.data.isLoggedIn) {
+      this.fetchLatestRole()
+    } else {
+      this.checkLoginStatus()
+    }
   },
 
   // 检查登录状态
@@ -29,6 +34,34 @@ Page({
       isLoggedIn: !!userInfo,
       isAdmin: role === 'admin'
     })
+  },
+
+  // 从数据库获取最新角色
+  async fetchLatestRole() {
+    try {
+      const userInfo = wx.getStorageSync('userInfo')
+      if (!userInfo) return
+      
+      const cloudDb = wx.cloud.database()
+      const res = await cloudDb.collection('users').where({
+        _openid: '{openid}'
+      }).get()
+      
+      if (res.data && res.data.length > 0) {
+        const user = res.data[0]
+        const role = user.role || 'user'
+        
+        // 更新本地存储
+        wx.setStorageSync('role', role)
+        
+        this.setData({
+          role: role,
+          isAdmin: role === 'admin'
+        })
+      }
+    } catch (err) {
+      console.error('获取最新角色失败', err)
+    }
   },
 
   // 微信登录
@@ -98,13 +131,18 @@ Page({
       content: '确定要注销登录吗？',
       success: (res) => {
         if (res.confirm) {
-          app.clearUserInfo()
+          // 清除本地存储
+          wx.removeStorageSync('userInfo')
+          wx.removeStorageSync('role')
+          
+          // 重置页面数据
           this.setData({
             userInfo: null,
             role: 'user',
             isLoggedIn: false,
             isAdmin: false
           })
+          
           wx.showToast({
             title: '已注销',
             icon: 'success'
@@ -114,58 +152,15 @@ Page({
     })
   },
 
-  // 切换角色（仅管理员可见）
-  onSwitchRole() {
-    const newRole = this.data.role === 'admin' ? 'user' : 'admin'
-    
-    wx.showModal({
-      title: '切换角色',
-      content: `确定要切换为${newRole === 'admin' ? '管理员' : '普通用户'}吗？`,
-      success: async (res) => {
-        if (res.confirm && this.data.userInfo) {
-          try {
-            const db = wx.cloud.database()
-            await db.collection('users').where({
-              _openid: '{openid}'
-            }).update({
-              data: {
-                role: newRole
-              }
-            })
-            
-            app.globalData.role = newRole
-            wx.setStorageSync('role', newRole)
-            
-            this.setData({
-              role: newRole,
-              isAdmin: newRole === 'admin'
-            })
-            
-            wx.showToast({
-              title: '角色切换成功',
-              icon: 'success'
-            })
-          } catch (err) {
-            console.error('切换角色失败', err)
-            wx.showToast({
-              title: '切换失败',
-              icon: 'none'
-            })
-          }
-        }
-      }
-    })
-  },
-
   // 跳转到分类管理
-  onNavigateToCategoryManage() {
+  onCategoryManage() {
     wx.navigateTo({
       url: '/pages/category/manage'
     })
   },
 
   // 跳转到产品管理
-  onNavigateToProductManage() {
+  onProductManage() {
     wx.navigateTo({
       url: '/pages/product/manage'
     })

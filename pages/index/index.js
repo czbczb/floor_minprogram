@@ -42,11 +42,29 @@ Page({
       const res = await db.categoriesDB.getTopLevel()
       
       if (res.data && res.data.length > 0) {
-        const categories = res.data.map((cat, index) => ({
-          ...cat,
-          image: cat.image || `https://picsum.photos/400/200?random=${index}`
-        }))
-        this.setData({ categories: categories })
+        // 为每个分类获取第一个产品的图片
+        const categoriesWithImages = await Promise.all(
+          res.data.map(async (cat) => {
+            try {
+              // 使用新的函数获取包括子分类的产品
+              const productRes = await db.productsDB.getByTopCategory(cat._id)
+              if (productRes.data && productRes.data.length > 0) {
+                const firstProduct = productRes.data[0]
+                return {
+                  ...cat,
+                  image: firstProduct.images && firstProduct.images[0] ? firstProduct.images[0] : cat.image
+                }
+              }
+            } catch (e) {
+              console.error('获取产品图片失败', e)
+            }
+            return {
+              ...cat,
+              image: cat.image || 'https://picsum.photos/400/200?random=' + Math.random()
+            }
+          })
+        )
+        this.setData({ categories: categoriesWithImages })
       } else {
         this.setData({ categories: this.getMockCategories() })
       }
