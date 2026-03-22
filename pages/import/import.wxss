@@ -1,0 +1,91 @@
+/* pages/import/import.wxss */
+.container {
+  padding: 20rpx;
+}
+
+.header {
+  margin-bottom: 30rpx;
+}
+
+.title {
+  font-size: 36rpx;
+  font-weight: bold;
+}
+
+.stats {
+  display: flex;
+  justify-content: space-around;
+  background: #f5f5f5;
+  padding: 30rpx;
+  border-radius: 10rpx;
+  margin-bottom: 30rpx;
+}
+
+.stat-item {
+  text-align: center;
+}
+
+.stat-item .label {
+  display: block;
+  font-size: 28rpx;
+  color: #666;
+}
+
+.stat-item .value {
+  display: block;
+  font-size: 48rpx;
+  font-weight: bold;
+  color: #007aff;
+  margin-top: 10rpx;
+}
+
+.actions {
+  margin-bottom: 30rpx;
+}
+
+.btn {
+  margin-bottom: 20rpx;
+  background: #007aff;
+  color: white;
+}
+
+.btn-secondary {
+  margin-bottom: 20rpx;
+  background: #8e8e93;
+  color: white;
+}
+
+.btn-primary {
+  margin-bottom: 20rpx;
+  background: #34c759;
+  color: white;
+}
+
+.btn-danger {
+  background: #ff3b30;
+}
+
+.log-container {
+  background: #1c1c1e;
+  border-radius: 10rpx;
+  overflow: hidden;
+}
+
+.log-header {
+  background: #2c2c2e;
+  color: #fff;
+  padding: 20rpx;
+  font-size: 28rpx;
+}
+
+.log-list {
+  height: 500rpx;
+  padding: 20rpx;
+}
+
+.log-item {
+  color: #0f0;
+  font-size: 24rpx;
+  font-family: monospace;
+  line-height: 1.8;
+}

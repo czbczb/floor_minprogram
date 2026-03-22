@@ -1,0 +1,28 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "time": "1774092636",
+  "data": [
+    {
+      "id": 220,
+      "title": "60*60莱姆石1.0",
+      "weigh": 220,
+      "image": "/uploads/20260308/微信图片_20260308161721_3240_Fpo61OY1RMC9cwT5WzQjVCgxdXXS.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308161721_3240_Fpo61OY1RMC9cwT5WzQjVCgxdXXS.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 221,
+      "title": "60*60莱姆石1.2",
+      "weigh": 221,
+      "image": "/uploads/20260308/微信图片_20260308161721_3250_FkXmedr84bPBWyllFCbOGfU3Fr0N.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308161721_3250_FkXmedr84bPBWyllFCbOGfU3Fr0N.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 222,
+      "title": "80*80莱姆石",
+      "weigh": 222,
+      "image": "/uploads/20260308/微信图片_20260308162557_3320_FktcRcuDWuOWZM7XWefkEkQHAnns.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308162557_3320_FktcRcuDWuOWZM7XWefkEkQHAnns.jpg?imageView2/0/w/1000"
+    }
+  ]
+}

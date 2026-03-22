@@ -1,0 +1,61 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "time": "1774092267",
+  "data": [
+    {
+      "id": 2384,
+      "category_id": 195,
+      "weigh": 2384,
+      "model": "36187",
+      "description": "银河系地铺石 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/d1070961f894a5e5021dc869b6c252db_Fowct4VywqP1011DlPgvg1GTtV5w.jpg",
+      "images": "/uploads/20260308/d1070961f894a5e5021dc869b6c252db_Fowct4VywqP1011DlPgvg1GTtV5w.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772945483",
+      "time_text": "2026-03-08 12:51:23",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/d1070961f894a5e5021dc869b6c252db_Fowct4VywqP1011DlPgvg1GTtV5w.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/d1070961f894a5e5021dc869b6c252db_Fowct4VywqP1011DlPgvg1GTtV5w.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2383,
+      "category_id": 195,
+      "weigh": 2383,
+      "model": "36185",
+      "description": "银河系地铺石 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/674b3e2e3f9a78577e0398fa36ddc5aa_FpTXzg6Gv8Y1uIn7W28_cMlgE6si.jpg",
+      "images": "/uploads/20260308/674b3e2e3f9a78577e0398fa36ddc5aa_FpTXzg6Gv8Y1uIn7W28_cMlgE6si.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772945458",
+      "time_text": "2026-03-08 12:50:58",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/674b3e2e3f9a78577e0398fa36ddc5aa_FpTXzg6Gv8Y1uIn7W28_cMlgE6si.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/674b3e2e3f9a78577e0398fa36ddc5aa_FpTXzg6Gv8Y1uIn7W28_cMlgE6si.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2382,
+      "category_id": 195,
+      "weigh": 2382,
+      "model": "36182",
+      "description": "银河系地铺石 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/17268da9b231ce6ae10cf5829090bbe0_FnikjkD8F6vxZYavXJbPyEObzU2w.jpg",
+      "images": "/uploads/20260308/17268da9b231ce6ae10cf5829090bbe0_FnikjkD8F6vxZYavXJbPyEObzU2w.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772945436",
+      "time_text": "2026-03-08 12:50:36",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/17268da9b231ce6ae10cf5829090bbe0_FnikjkD8F6vxZYavXJbPyEObzU2w.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/17268da9b231ce6ae10cf5829090bbe0_FnikjkD8F6vxZYavXJbPyEObzU2w.jpg?imageView2/0/w/1000"
+      ]
+    }
+  ]
+}

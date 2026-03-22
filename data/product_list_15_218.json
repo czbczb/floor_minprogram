@@ -1,0 +1,277 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "time": "1774092616",
+  "data": [
+    {
+      "id": 2650,
+      "category_id": 218,
+      "weigh": 2650,
+      "model": "4186",
+      "description": "地砖400*400     10片/件    28公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308154747_FikjIpshO-Fp_UM28_wxlAUKbhen.jpg",
+      "images": "/uploads/20260308/微信图片_20260308154747_FikjIpshO-Fp_UM28_wxlAUKbhen.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772956752",
+      "time_text": "2026-03-08 15:59:12",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154747_FikjIpshO-Fp_UM28_wxlAUKbhen.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154747_FikjIpshO-Fp_UM28_wxlAUKbhen.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2649,
+      "category_id": 218,
+      "weigh": 2649,
+      "model": "4187",
+      "description": "地砖400*400     10片/件    28公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308154743_FhJEB4e62BGrm_f47gPtm0ICrJJL.jpg",
+      "images": "/uploads/20260308/微信图片_20260308154743_FhJEB4e62BGrm_f47gPtm0ICrJJL.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772956724",
+      "time_text": "2026-03-08 15:58:44",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154743_FhJEB4e62BGrm_f47gPtm0ICrJJL.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154743_FhJEB4e62BGrm_f47gPtm0ICrJJL.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2648,
+      "category_id": 218,
+      "weigh": 2648,
+      "model": "4189",
+      "description": "地砖400*400     10片/件    28公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308154737_Fo1S9ABUogIEl7iX19EZHC2QIeZ3.jpg",
+      "images": "/uploads/20260308/微信图片_20260308154737_Fo1S9ABUogIEl7iX19EZHC2QIeZ3.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772956692",
+      "time_text": "2026-03-08 15:58:12",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154737_Fo1S9ABUogIEl7iX19EZHC2QIeZ3.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154737_Fo1S9ABUogIEl7iX19EZHC2QIeZ3.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2647,
+      "category_id": 218,
+      "weigh": 2647,
+      "model": "4219",
+      "description": "地砖400*400     10片/件    28公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308154732_FkJsR8s0nFDgIrqAASmsxOIfi8Nc.jpg",
+      "images": "/uploads/20260308/微信图片_20260308154732_FkJsR8s0nFDgIrqAASmsxOIfi8Nc.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772956654",
+      "time_text": "2026-03-08 15:57:34",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154732_FkJsR8s0nFDgIrqAASmsxOIfi8Nc.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154732_FkJsR8s0nFDgIrqAASmsxOIfi8Nc.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2646,
+      "category_id": 218,
+      "weigh": 2646,
+      "model": "4912",
+      "description": "地砖400*400     10片/件    28公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308154727_FoWhmVe75tpDntfCRt0o8Q7L7Cix.jpg",
+      "images": "/uploads/20260308/微信图片_20260308154727_FoWhmVe75tpDntfCRt0o8Q7L7Cix.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772956621",
+      "time_text": "2026-03-08 15:57:01",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154727_FoWhmVe75tpDntfCRt0o8Q7L7Cix.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154727_FoWhmVe75tpDntfCRt0o8Q7L7Cix.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2645,
+      "category_id": 218,
+      "weigh": 2645,
+      "model": "4G005",
+      "description": "地砖400*400     10片/件    28公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308154722_Fp7qWf91PdhSqHkueOqPNhFQgekr.jpg",
+      "images": "/uploads/20260308/微信图片_20260308154722_Fp7qWf91PdhSqHkueOqPNhFQgekr.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772956589",
+      "time_text": "2026-03-08 15:56:29",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154722_Fp7qWf91PdhSqHkueOqPNhFQgekr.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154722_Fp7qWf91PdhSqHkueOqPNhFQgekr.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2643,
+      "category_id": 218,
+      "weigh": 2643,
+      "model": "4000",
+      "description": "地砖400*400     10片/件    28公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308154718_FovWUw8yyCzuBfSKIiWRFHkBmqtl.jpg",
+      "images": "/uploads/20260308/微信图片_20260308154718_FovWUw8yyCzuBfSKIiWRFHkBmqtl.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772956552",
+      "time_text": "2026-03-08 15:55:52",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154718_FovWUw8yyCzuBfSKIiWRFHkBmqtl.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154718_FovWUw8yyCzuBfSKIiWRFHkBmqtl.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2640,
+      "category_id": 218,
+      "weigh": 2640,
+      "model": "4G012",
+      "description": "地砖400*400     10片/件    28公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308154711_Ft_cbOgeGiDWq6KJCJEKwjaSy_n7.jpg",
+      "images": "/uploads/20260308/微信图片_20260308154711_Ft_cbOgeGiDWq6KJCJEKwjaSy_n7.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772956521",
+      "time_text": "2026-03-08 15:55:21",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154711_Ft_cbOgeGiDWq6KJCJEKwjaSy_n7.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154711_Ft_cbOgeGiDWq6KJCJEKwjaSy_n7.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2636,
+      "category_id": 218,
+      "weigh": 2636,
+      "model": "4161",
+      "description": "地砖400*400     10片/件    28公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308154705_FjuR_fOz-vKuwe3KIAIvk4WkkXOg.jpg",
+      "images": "/uploads/20260308/微信图片_20260308154705_FjuR_fOz-vKuwe3KIAIvk4WkkXOg.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772956483",
+      "time_text": "2026-03-08 15:54:43",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154705_FjuR_fOz-vKuwe3KIAIvk4WkkXOg.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154705_FjuR_fOz-vKuwe3KIAIvk4WkkXOg.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2634,
+      "category_id": 218,
+      "weigh": 2634,
+      "model": "4220",
+      "description": "地砖400*400     10片/件    28公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308154700_FuI1pSDTychmLsKM6ljYbGFscw7l.jpg",
+      "images": "/uploads/20260308/微信图片_20260308154700_FuI1pSDTychmLsKM6ljYbGFscw7l.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772956450",
+      "time_text": "2026-03-08 15:54:10",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154700_FuI1pSDTychmLsKM6ljYbGFscw7l.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154700_FuI1pSDTychmLsKM6ljYbGFscw7l.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2631,
+      "category_id": 218,
+      "weigh": 2631,
+      "model": "4G003",
+      "description": "地砖400*400     10片/件    28公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308154654_FpBCcOxCYoVj8Rhp65Dsn6pCEDzB.jpg",
+      "images": "/uploads/20260308/微信图片_20260308154654_FpBCcOxCYoVj8Rhp65Dsn6pCEDzB.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772956382",
+      "time_text": "2026-03-08 15:53:02",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154654_FpBCcOxCYoVj8Rhp65Dsn6pCEDzB.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154654_FpBCcOxCYoVj8Rhp65Dsn6pCEDzB.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2630,
+      "category_id": 218,
+      "weigh": 2630,
+      "model": "4162",
+      "description": "地砖400*400     10片/件    28公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308154650_FtIyfDUjxHJekjKruzzKdbcspUca.jpg",
+      "images": "/uploads/20260308/微信图片_20260308154650_FtIyfDUjxHJekjKruzzKdbcspUca.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772956339",
+      "time_text": "2026-03-08 15:52:19",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154650_FtIyfDUjxHJekjKruzzKdbcspUca.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154650_FtIyfDUjxHJekjKruzzKdbcspUca.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2629,
+      "category_id": 218,
+      "weigh": 2629,
+      "model": "4102",
+      "description": "地砖400*400     10片/件    28公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308154644_FmfhpVUg_u5t34N9YiW9lVKZIwOZ.jpg",
+      "images": "/uploads/20260308/微信图片_20260308154644_FmfhpVUg_u5t34N9YiW9lVKZIwOZ.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772956313",
+      "time_text": "2026-03-08 15:51:53",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154644_FmfhpVUg_u5t34N9YiW9lVKZIwOZ.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154644_FmfhpVUg_u5t34N9YiW9lVKZIwOZ.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2628,
+      "category_id": 218,
+      "weigh": 2628,
+      "model": "4913",
+      "description": "地砖400*400     10片/件    28公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308154638_FqdBjRXnH3EJAMbV6IPFHpLwrKKL.jpg",
+      "images": "/uploads/20260308/微信图片_20260308154638_FqdBjRXnH3EJAMbV6IPFHpLwrKKL.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772956286",
+      "time_text": "2026-03-08 15:51:26",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154638_FqdBjRXnH3EJAMbV6IPFHpLwrKKL.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154638_FqdBjRXnH3EJAMbV6IPFHpLwrKKL.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2627,
+      "category_id": 218,
+      "weigh": 2627,
+      "model": "4700",
+      "description": "地砖400*400     10片/件    28公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308154631_FntB9O7nKWStDieccYAqEE4AuB5O.jpg",
+      "images": "/uploads/20260308/微信图片_20260308154631_FntB9O7nKWStDieccYAqEE4AuB5O.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772956240",
+      "time_text": "2026-03-08 15:50:40",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154631_FntB9O7nKWStDieccYAqEE4AuB5O.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154631_FntB9O7nKWStDieccYAqEE4AuB5O.jpg?imageView2/0/w/1000"
+      ]
+    }
+  ]
+}

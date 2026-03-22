@@ -1,0 +1,63 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "time": "1774092390",
+  "data": [
+    {
+      "id": 208,
+      "title": "80福禄宝系列",
+      "weigh": 208,
+      "image": "/uploads/20260308/微信图片_20260308143650_2526_FpcEEiy6bo4pnVlSayzk70D_mRfc.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308143650_2526_FpcEEiy6bo4pnVlSayzk70D_mRfc.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 209,
+      "title": "80爆款仿古",
+      "weigh": 209,
+      "image": "/uploads/20260308/微信图片_20260308145337_2590_FhgUPQbNCw_UhJdAif5rAG1mmfD6.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308145337_2590_FhgUPQbNCw_UhJdAif5rAG1mmfD6.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 210,
+      "title": "80通体素色 ",
+      "weigh": 210,
+      "image": "/uploads/20260308/微信图片_20260308145905_2608_FjkoSOKOnMGRUW-_yF9mVD4gco4n.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308145905_2608_FjkoSOKOnMGRUW-_yF9mVD4gco4n.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 212,
+      "title": "80通体水磨石",
+      "weigh": 212,
+      "image": "/uploads/20260308/微信图片_20260308145905_2630_FgRFOayxvAIj1i1eaK1dpxSN-HMG.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308145905_2630_FgRFOayxvAIj1i1eaK1dpxSN-HMG.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 213,
+      "title": "80加厚仿古",
+      "weigh": 213,
+      "image": "/uploads/20260308/微信图片_20260308151923_2784_FoPilVkIB1zZGPPZHT0ihI4k6RHW.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308151923_2784_FoPilVkIB1zZGPPZHT0ihI4k6RHW.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 215,
+      "title": "80水磨石",
+      "weigh": 215,
+      "image": "/uploads/20260308/35c07b90a5582221f634574a88966d47_FiOzFwUdYSqq1kX0THBWYv1A2NKc.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/35c07b90a5582221f634574a88966d47_FiOzFwUdYSqq1kX0THBWYv1A2NKc.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 219,
+      "title": "80*80配套60*60",
+      "weigh": 219,
+      "image": "/uploads/20260308/微信图片_20260308154437_3145_FpILlKlrgQXUenA9i0jaWXuHS6Z8.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154437_3145_FpILlKlrgQXUenA9i0jaWXuHS6Z8.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 226,
+      "title": "80仿古",
+      "weigh": 226,
+      "image": "/uploads/20260309/b049c0677cf4d44a52c9a1261cf1819e_FqXF7pKLltzemgKsHwjrEwTouV3E.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260309/b049c0677cf4d44a52c9a1261cf1819e_FqXF7pKLltzemgKsHwjrEwTouV3E.jpg?imageView2/0/w/1000"
+    }
+  ]
+}

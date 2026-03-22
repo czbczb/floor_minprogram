@@ -1,0 +1,48 @@
+<!--pages/import/import.wxml-->
+<view class="container">
+  <view class="header">
+    <text class="title">数据导入</text>
+  </view>
+
+  <view class="stats">
+    <view class="stat-item">
+      <text class="label">分类</text>
+      <text class="value">{{stats.categories}}</text>
+    </view>
+    <view class="stat-item">
+      <text class="label">产品</text>
+      <text class="value">{{stats.products}}</text>
+    </view>
+  </view>
+
+  <view class="actions">
+    <button class="btn btn-secondary" bindtap="loadData" disabled="{{importing}}">
+      重新加载数据
+    </button>
+    
+    <button class="btn" bindtap="importCategories" disabled="{{importing}}">
+      {{importing && step === 1 ? '导入中...' : '1. 导入分类'}}
+    </button>
+    
+    <button class="btn" bindtap="importProducts" disabled="{{importing}}">
+      {{importing && step === 2 ? '导入中...' : '2. 导入产品(URL)'}}
+    </button>
+    
+    <button class="btn btn-primary" bindtap="importProductsWithImages" disabled="{{importing}}">
+      {{importing && step === 3 ? '导入中...' : '3. 导入产品(上传图片)'}}
+    </button>
+    
+    <button class="btn btn-danger" bindtap="clearData" disabled="{{importing}}">
+      清空数据
+    </button>
+  </view>
+
+  <view class="log-container">
+    <view class="log-header">导入日志</view>
+    <scroll-view scroll-y class="log-list" scroll-top="{{scrollTop}}">
+      <view wx:for="{{log}}" wx:key="index" class="log-item">
+        {{item}}
+      </view>
+    </scroll-view>
+  </view>
+</view>

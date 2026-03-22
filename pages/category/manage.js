@@ -44,8 +44,34 @@ Page({
   async loadCategories() {
     try {
       const res = await db.categoriesDB.getAll()
+      console.log('加载分类结果:', res.data)
+      const allCategories = res.data || []
+      
+      // 找出所有一级分类和二级分类
+      const level1 = allCategories.filter(c => !c.parentId || c.parentId === '')
+      const level2 = allCategories.filter(c => c.level == 2)
+      
+      console.log('总分类数量:', allCategories.length)
+      console.log('一级分类数量:', level1.length, '二级分类数量:', level2.length)
+      console.log('一级分类origId:', level1.map(c => c.origId))
+      console.log('二级分类parentId:', level2.map(c => c.parentId))
+      
+      // 按父子关系排序 - 使用origId匹配
+      const sortedCategories = []
+      level1.forEach(l1 => {
+        sortedCategories.push(l1)
+        
+        // 通过parentId匹配: 二级分类的parentId应该等于一级分类的origId
+        const children = level2.filter(c2 => c2.parentId === l1.origId)
+        
+        sortedCategories.push(...children)
+      })
+      
+      console.log('排序后分类数量:', sortedCategories.length)
+      
       this.setData({
-        categories: res.data || [],
+        categories: sortedCategories,
+        allCategories: allCategories,
         loading: false
       })
     } catch (err) {
@@ -60,14 +86,18 @@ Page({
     const level = e.currentTarget.dataset.level || 1
     
     let parentName = ''
+    let parentOrigId = ''
     if (parentId) {
-      const parent = this.data.categories.find(c => c._id === parentId)
+      // 查找父分类 - 从allCategories中查找
+      const allCategories = this.data.allCategories || []
+      const parent = allCategories.find(c => c._id === parentId)
       parentName = parent ? parent.name : ''
+      parentOrigId = parent ? parent.origId : ''
     }
     
     this.setData({
       showAddModal: true,
-      parentCategory: parentId ? { _id: parentId, name: parentName } : null,
+      parentCategory: parentId ? { _id: parentId, name: parentName, origId: parentOrigId } : null,
       newCategoryName: '',
       newCategoryLevel: level,
       newCategoryImage: ''
@@ -142,14 +172,42 @@ Page({
       }
 
       const db = wx.cloud.database()
+      
+      // 构建分类数据
+      // 生成origId: 一级分类用 cat_xxx，二级分类用 parentOrigId_xxx
+      const newId = 'cat_' + Date.now().toString(36)
+      let origId
+      let parentOrigId = ''
+      
+      if (this.data.newCategoryLevel == 1) {
+        // 一级分类
+        origId = newId
+        parentOrigId = ''
+      } else {
+        // 二级分类: parentOrigId + _ + newId
+        parentOrigId = this.data.parentCategory ? this.data.parentCategory.origId : ''
+        origId = parentOrigId ? parentOrigId + '_' + newId : newId
+      }
+      
+      const categoryData = {
+        origId: origId,
+        name: name,
+        level: this.data.newCategoryLevel,
+        image: imageUrl,
+        createTime: new Date()
+      }
+      
+      // 设置父分类ID
+      if (this.data.parentCategory) {
+        categoryData.parentId = this.data.parentCategory._id
+        categoryData.parentOrigId = parentOrigId
+      } else {
+        categoryData.parentId = ''
+        categoryData.parentOrigId = ''
+      }
+      
       await db.collection('categories').add({
-        data: {
-          name: name,
-          parentId: this.data.parentCategory ? this.data.parentCategory._id : '',
-          level: this.data.newCategoryLevel,
-          image: imageUrl,
-          createTime: new Date()
-        }
+        data: categoryData
       })
 
       wx.hideLoading()
@@ -294,8 +352,10 @@ Page({
             // 删除该分类
             await db.collection('categories').doc(id).remove()
             
-            // 删除所有子分类
-            const subCategories = this.data.categories.filter(c => c.parentId === id)
+            // 删除所有子分类（按parentId或parentOrigId）
+            const subCategories = this.data.categories.filter(c => 
+              c.parentId === id || c.parentOrigId === id
+            )
             for (const subCat of subCategories) {
               await db.collection('categories').doc(subCat._id).remove()
             }

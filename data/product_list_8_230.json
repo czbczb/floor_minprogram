@@ -1,0 +1,223 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "time": "1774092880",
+  "data": [
+    {
+      "id": 2749,
+      "category_id": 230,
+      "weigh": 2749,
+      "model": "1605",
+      "description": "荔枝面  4片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260309/微信图片_20260309104852_345_FrsgQxwCuLOJJgpQf6PC34YVrzYV.jpg",
+      "images": "/uploads/20260309/微信图片_20260309104852_345_FrsgQxwCuLOJJgpQf6PC34YVrzYV.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1773025308",
+      "time_text": "2026-03-09 11:01:48",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_345_FrsgQxwCuLOJJgpQf6PC34YVrzYV.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_345_FrsgQxwCuLOJJgpQf6PC34YVrzYV.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2748,
+      "category_id": 230,
+      "weigh": 2748,
+      "model": "61001",
+      "description": "火烧面 4片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260309/微信图片_20260309104852_343_FgWdXyJ1toNMFI1-gBKRdbqWqHBz.jpg",
+      "images": "/uploads/20260309/微信图片_20260309104852_343_FgWdXyJ1toNMFI1-gBKRdbqWqHBz.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1773025265",
+      "time_text": "2026-03-09 11:01:05",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_343_FgWdXyJ1toNMFI1-gBKRdbqWqHBz.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_343_FgWdXyJ1toNMFI1-gBKRdbqWqHBz.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2747,
+      "category_id": 230,
+      "weigh": 2747,
+      "model": "61003",
+      "description": "火烧面 4片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260309/微信图片_20260309104852_341_FtMoot25KdDjMrmLMqRdhm-SjkVf.jpg",
+      "images": "/uploads/20260309/微信图片_20260309104852_341_FtMoot25KdDjMrmLMqRdhm-SjkVf.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1773025239",
+      "time_text": "2026-03-09 11:00:39",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_341_FtMoot25KdDjMrmLMqRdhm-SjkVf.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_341_FtMoot25KdDjMrmLMqRdhm-SjkVf.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2746,
+      "category_id": 230,
+      "weigh": 2746,
+      "model": "61002",
+      "description": "火烧面 4片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260309/微信图片_20260309104852_339_FoiTM2M7BS5s8aYV4G8sXcfColAB.jpg",
+      "images": "/uploads/20260309/微信图片_20260309104852_339_FoiTM2M7BS5s8aYV4G8sXcfColAB.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1773025220",
+      "time_text": "2026-03-09 11:00:20",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_339_FoiTM2M7BS5s8aYV4G8sXcfColAB.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_339_FoiTM2M7BS5s8aYV4G8sXcfColAB.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2745,
+      "category_id": 230,
+      "weigh": 2745,
+      "model": "61006",
+      "description": "火烧面 4片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260309/微信图片_20260309104852_337_Frc5nmEbsHa290f__zEAgR_2sxqd.jpg",
+      "images": "/uploads/20260309/微信图片_20260309104852_337_Frc5nmEbsHa290f__zEAgR_2sxqd.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1773025201",
+      "time_text": "2026-03-09 11:00:01",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_337_Frc5nmEbsHa290f__zEAgR_2sxqd.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_337_Frc5nmEbsHa290f__zEAgR_2sxqd.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2744,
+      "category_id": 230,
+      "weigh": 2744,
+      "model": "12850",
+      "description": "火烧面 4片/件 35公斤/件",
+      "param": "火烧面  4片/件 35公斤/件",
+      "image": "/uploads/20260309/微信图片_20260309104852_333_FiJ4C--iKJJOqfg8fPzE0t74LiMy.jpg",
+      "images": "/uploads/20260309/微信图片_20260309104852_333_FiJ4C--iKJJOqfg8fPzE0t74LiMy.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1773025182",
+      "time_text": "2026-03-09 10:59:42",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_333_FiJ4C--iKJJOqfg8fPzE0t74LiMy.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_333_FiJ4C--iKJJOqfg8fPzE0t74LiMy.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2743,
+      "category_id": 230,
+      "weigh": 2743,
+      "model": "1280",
+      "description": "火烧面 4片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260309/微信图片_20260309104852_331_Fi84wQRH3LrVAvLPSY7jWEzi1DW8.jpg",
+      "images": "/uploads/20260309/微信图片_20260309104852_331_Fi84wQRH3LrVAvLPSY7jWEzi1DW8.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1773025147",
+      "time_text": "2026-03-09 10:59:07",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_331_Fi84wQRH3LrVAvLPSY7jWEzi1DW8.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_331_Fi84wQRH3LrVAvLPSY7jWEzi1DW8.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2742,
+      "category_id": 230,
+      "weigh": 2742,
+      "model": "1682",
+      "description": "荔枝面 4片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260309/微信图片_20260309104852_329_Fm32LSKGlJH414OTQ0K5W7kF6hQ-.jpg",
+      "images": "/uploads/20260309/微信图片_20260309104852_329_Fm32LSKGlJH414OTQ0K5W7kF6hQ-.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1773025078",
+      "time_text": "2026-03-09 10:57:58",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_329_Fm32LSKGlJH414OTQ0K5W7kF6hQ-.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_329_Fm32LSKGlJH414OTQ0K5W7kF6hQ-.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2741,
+      "category_id": 230,
+      "weigh": 2741,
+      "model": "60001",
+      "description": "荔枝面 4片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260309/微信图片_20260309104852_325_FstWnr3ntw_HOboeffHzyC3BYG_8.jpg",
+      "images": "/uploads/20260309/微信图片_20260309104852_325_FstWnr3ntw_HOboeffHzyC3BYG_8.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1773024989",
+      "time_text": "2026-03-09 10:56:29",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_325_FstWnr3ntw_HOboeffHzyC3BYG_8.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_325_FstWnr3ntw_HOboeffHzyC3BYG_8.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2740,
+      "category_id": 230,
+      "weigh": 2740,
+      "model": "1268",
+      "description": "火烧面 4片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260309/微信图片_20260309104852_323_FrGLx83C9YEniE3aoNG1746Pqgvt.jpg",
+      "images": "/uploads/20260309/微信图片_20260309104852_323_FrGLx83C9YEniE3aoNG1746Pqgvt.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1773024969",
+      "time_text": "2026-03-09 10:56:09",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_323_FrGLx83C9YEniE3aoNG1746Pqgvt.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_323_FrGLx83C9YEniE3aoNG1746Pqgvt.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2739,
+      "category_id": 230,
+      "weigh": 2739,
+      "model": "1282",
+      "description": "火烧面 4片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260309/微信图片_20260309104852_321_Fis4zMxu21G5BJOigQPO6ntLqslR.jpg",
+      "images": "/uploads/20260309/微信图片_20260309104852_321_Fis4zMxu21G5BJOigQPO6ntLqslR.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1773024948",
+      "time_text": "2026-03-09 10:55:48",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_321_Fis4zMxu21G5BJOigQPO6ntLqslR.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_321_Fis4zMxu21G5BJOigQPO6ntLqslR.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2738,
+      "category_id": 230,
+      "weigh": 2738,
+      "model": "61005",
+      "description": "荔枝面  4片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260309/1a9990b18ff200b1438d988dc4e0c84e_Fh4mp1VrZUnlG6_WavZUbnH6UNuL.jpg",
+      "images": "/uploads/20260309/1a9990b18ff200b1438d988dc4e0c84e_Fh4mp1VrZUnlG6_WavZUbnH6UNuL.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1773024925",
+      "time_text": "2026-03-09 10:55:25",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260309/1a9990b18ff200b1438d988dc4e0c84e_Fh4mp1VrZUnlG6_WavZUbnH6UNuL.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260309/1a9990b18ff200b1438d988dc4e0c84e_Fh4mp1VrZUnlG6_WavZUbnH6UNuL.jpg?imageView2/0/w/1000"
+      ]
+    }
+  ]
+}

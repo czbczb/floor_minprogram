@@ -1,0 +1,169 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "time": "1774092570",
+  "data": [
+    {
+      "id": 2751,
+      "category_id": 214,
+      "weigh": 2751,
+      "model": "361514",
+      "description": "古堡石    6片/件    27公斤/件",
+      "param": "",
+      "image": "/uploads/20260310/f23f6cd1a1bba27d239736033feb4587_FhXfbeKSUMtlMmFAT1VzcGVSmOcr.jpg",
+      "images": "/uploads/20260310/f23f6cd1a1bba27d239736033feb4587_FhXfbeKSUMtlMmFAT1VzcGVSmOcr.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1773113155",
+      "time_text": "2026-03-10 11:25:55",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260310/f23f6cd1a1bba27d239736033feb4587_FhXfbeKSUMtlMmFAT1VzcGVSmOcr.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260310/f23f6cd1a1bba27d239736033feb4587_FhXfbeKSUMtlMmFAT1VzcGVSmOcr.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2590,
+      "category_id": 214,
+      "weigh": 2590,
+      "model": "361516",
+      "description": "古堡石    6片/件    27公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308152240_FtvqGLiregrLIDldFt0th-E84_So.jpg",
+      "images": "/uploads/20260308/微信图片_20260308152240_FtvqGLiregrLIDldFt0th-E84_So.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955068",
+      "time_text": "2026-03-08 15:31:08",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308152240_FtvqGLiregrLIDldFt0th-E84_So.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308152240_FtvqGLiregrLIDldFt0th-E84_So.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2589,
+      "category_id": 214,
+      "weigh": 2589,
+      "model": "361515",
+      "description": "古堡石    6片/件    27公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308152234_FiSE-wQQpDEahi6OQ4epwdAK6WkQ.jpg",
+      "images": "/uploads/20260308/微信图片_20260308152234_FiSE-wQQpDEahi6OQ4epwdAK6WkQ.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955023",
+      "time_text": "2026-03-08 15:30:23",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308152234_FiSE-wQQpDEahi6OQ4epwdAK6WkQ.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308152234_FiSE-wQQpDEahi6OQ4epwdAK6WkQ.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2588,
+      "category_id": 214,
+      "weigh": 2588,
+      "model": "36W03",
+      "description": "古堡石    6片/件    27公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308152228_Fku2Y_XtCASgPkZk4TftBrvcjtO7.jpg",
+      "images": "/uploads/20260308/微信图片_20260308152228_Fku2Y_XtCASgPkZk4TftBrvcjtO7.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772954992",
+      "time_text": "2026-03-08 15:29:52",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308152228_Fku2Y_XtCASgPkZk4TftBrvcjtO7.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308152228_Fku2Y_XtCASgPkZk4TftBrvcjtO7.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2587,
+      "category_id": 214,
+      "weigh": 2587,
+      "model": "36W07",
+      "description": "古堡石    6片/件    27公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308152222_FvdAAoFV3JH7m_zAMw99Jna4vCTz.jpg",
+      "images": "/uploads/20260308/微信图片_20260308152222_FvdAAoFV3JH7m_zAMw99Jna4vCTz.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772954956",
+      "time_text": "2026-03-08 15:29:16",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308152222_FvdAAoFV3JH7m_zAMw99Jna4vCTz.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308152222_FvdAAoFV3JH7m_zAMw99Jna4vCTz.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2586,
+      "category_id": 214,
+      "weigh": 2586,
+      "model": "36W11",
+      "description": "古堡石    6片/件    27公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308152216_FpEbjib2m_bBHCgc-A9U6-YnhHsv.jpg",
+      "images": "/uploads/20260308/微信图片_20260308152216_FpEbjib2m_bBHCgc-A9U6-YnhHsv.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772954908",
+      "time_text": "2026-03-08 15:28:28",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308152216_FpEbjib2m_bBHCgc-A9U6-YnhHsv.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308152216_FpEbjib2m_bBHCgc-A9U6-YnhHsv.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2585,
+      "category_id": 214,
+      "weigh": 2585,
+      "model": "36W01",
+      "description": "古堡石    6片/件    27公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308152208_FrUSl537uAbkMRaxxCAXT66LSzbi.jpg",
+      "images": "/uploads/20260308/微信图片_20260308152208_FrUSl537uAbkMRaxxCAXT66LSzbi.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772954868",
+      "time_text": "2026-03-08 15:27:48",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308152208_FrUSl537uAbkMRaxxCAXT66LSzbi.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308152208_FrUSl537uAbkMRaxxCAXT66LSzbi.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2584,
+      "category_id": 214,
+      "weigh": 2584,
+      "model": "36W08",
+      "description": "古堡石    6片/件    27公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308152201_FmBe9116LLcim0_-YidXxV8tmPFp.jpg",
+      "images": "/uploads/20260308/微信图片_20260308152201_FmBe9116LLcim0_-YidXxV8tmPFp.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772954827",
+      "time_text": "2026-03-08 15:27:07",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308152201_FmBe9116LLcim0_-YidXxV8tmPFp.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308152201_FmBe9116LLcim0_-YidXxV8tmPFp.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2583,
+      "category_id": 214,
+      "weigh": 2583,
+      "model": "36W05",
+      "description": "古堡石    6片/件    27公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308152153_Fj1BcWktNCk6CtD-mrrAfJcuOyW-.jpg",
+      "images": "/uploads/20260308/微信图片_20260308152153_Fj1BcWktNCk6CtD-mrrAfJcuOyW-.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772954792",
+      "time_text": "2026-03-08 15:26:32",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308152153_Fj1BcWktNCk6CtD-mrrAfJcuOyW-.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308152153_Fj1BcWktNCk6CtD-mrrAfJcuOyW-.jpg?imageView2/0/w/1000"
+      ]
+    }
+  ]
+}

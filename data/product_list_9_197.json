@@ -1,0 +1,79 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "time": "1774092286",
+  "data": [
+    {
+      "id": 2394,
+      "category_id": 197,
+      "weigh": 2394,
+      "model": "80207",
+      "description": "中源紫砂 3片/件 40公斤",
+      "param": "",
+      "image": "/uploads/20260308/ad79aa6862105650d5ba30aadd65288e_Fhwi1EJxp3lw9bXwyRKsXNjummpQ.jpg",
+      "images": "/uploads/20260308/ad79aa6862105650d5ba30aadd65288e_Fhwi1EJxp3lw9bXwyRKsXNjummpQ.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772946188",
+      "time_text": "2026-03-08 13:03:08",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/ad79aa6862105650d5ba30aadd65288e_Fhwi1EJxp3lw9bXwyRKsXNjummpQ.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/ad79aa6862105650d5ba30aadd65288e_Fhwi1EJxp3lw9bXwyRKsXNjummpQ.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2391,
+      "category_id": 197,
+      "weigh": 2393,
+      "model": "80205",
+      "description": "中源紫砂 3片/件 40公斤",
+      "param": "",
+      "image": "/uploads/20260308/30c2fd97944e0f4e5962502369ff3460_FnVPZazIAGVAK6C3CNh5QVCa9oLj.jpg",
+      "images": "/uploads/20260308/30c2fd97944e0f4e5962502369ff3460_FnVPZazIAGVAK6C3CNh5QVCa9oLj.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772946125",
+      "time_text": "2026-03-08 13:02:05",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/30c2fd97944e0f4e5962502369ff3460_FnVPZazIAGVAK6C3CNh5QVCa9oLj.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/30c2fd97944e0f4e5962502369ff3460_FnVPZazIAGVAK6C3CNh5QVCa9oLj.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2393,
+      "category_id": 197,
+      "weigh": 2392,
+      "model": "8108",
+      "description": "中源紫砂 3片/件 40公斤",
+      "param": "",
+      "image": "/uploads/20260308/07238e142d0d9a61ad47af3cde55f60c_FqS4c_R21VtSVwBS3TqUPqqDf94H.jpg",
+      "images": "/uploads/20260308/07238e142d0d9a61ad47af3cde55f60c_FqS4c_R21VtSVwBS3TqUPqqDf94H.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772946172",
+      "time_text": "2026-03-08 13:02:52",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/07238e142d0d9a61ad47af3cde55f60c_FqS4c_R21VtSVwBS3TqUPqqDf94H.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/07238e142d0d9a61ad47af3cde55f60c_FqS4c_R21VtSVwBS3TqUPqqDf94H.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2392,
+      "category_id": 197,
+      "weigh": 2391,
+      "model": "8102",
+      "description": "中源紫砂 3片/件 40公斤",
+      "param": "",
+      "image": "/uploads/20260308/04906cc98752babd7da470062d0ef12d_FmfS9831kyX2vstoZBsG6yzUcr7v.jpg",
+      "images": "/uploads/20260308/04906cc98752babd7da470062d0ef12d_FmfS9831kyX2vstoZBsG6yzUcr7v.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772946154",
+      "time_text": "2026-03-08 13:02:34",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/04906cc98752babd7da470062d0ef12d_FmfS9831kyX2vstoZBsG6yzUcr7v.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/04906cc98752babd7da470062d0ef12d_FmfS9831kyX2vstoZBsG6yzUcr7v.jpg?imageView2/0/w/1000"
+      ]
+    }
+  ]
+}

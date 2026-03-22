@@ -1,0 +1,151 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "time": "1774092255",
+  "data": [
+    {
+      "id": 2408,
+      "category_id": 200,
+      "weigh": 2415,
+      "model": "L36000",
+      "description": "荔枝面地铺石 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308132503_2225_Fj-__tr_fa-mqLk-SkahupADbLM7.jpg",
+      "images": "/uploads/20260308/微信图片_20260308132503_2225_Fj-__tr_fa-mqLk-SkahupADbLM7.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772947636",
+      "time_text": "2026-03-08 13:27:16",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132503_2225_Fj-__tr_fa-mqLk-SkahupADbLM7.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132503_2225_Fj-__tr_fa-mqLk-SkahupADbLM7.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2411,
+      "category_id": 200,
+      "weigh": 2414,
+      "model": "H36000",
+      "description": "火烧面地铺石 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308132503_2216_Fr27Vai1JSmpBKMCJ47EmcmC2Qot.jpg",
+      "images": "/uploads/20260308/微信图片_20260308132503_2216_Fr27Vai1JSmpBKMCJ47EmcmC2Qot.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772947684",
+      "time_text": "2026-03-08 13:28:04",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132503_2216_Fr27Vai1JSmpBKMCJ47EmcmC2Qot.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132503_2216_Fr27Vai1JSmpBKMCJ47EmcmC2Qot.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2412,
+      "category_id": 200,
+      "weigh": 2413,
+      "model": "L36001",
+      "description": "荔枝面地铺石 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308132503_2219_FpNwwCg4L1najzsfsMgw_Yskrmkz.jpg",
+      "images": "/uploads/20260308/微信图片_20260308132503_2219_FpNwwCg4L1najzsfsMgw_Yskrmkz.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772947703",
+      "time_text": "2026-03-08 13:28:23",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132503_2219_FpNwwCg4L1najzsfsMgw_Yskrmkz.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132503_2219_FpNwwCg4L1najzsfsMgw_Yskrmkz.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2410,
+      "category_id": 200,
+      "weigh": 2412,
+      "model": "H36001",
+      "description": "火烧面地铺石 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308132503_2210_FnyXGkAF8bgv0-YPsEAtDG6_t5zU.jpg",
+      "images": "/uploads/20260308/微信图片_20260308132503_2210_FnyXGkAF8bgv0-YPsEAtDG6_t5zU.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772947670",
+      "time_text": "2026-03-08 13:27:50",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132503_2210_FnyXGkAF8bgv0-YPsEAtDG6_t5zU.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132503_2210_FnyXGkAF8bgv0-YPsEAtDG6_t5zU.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2413,
+      "category_id": 200,
+      "weigh": 2411,
+      "model": "L36002",
+      "description": "荔枝面地铺石 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308132503_2222_FvNO1QYu2DXQFuOh7seECrcOrn7H.jpg",
+      "images": "/uploads/20260308/微信图片_20260308132503_2222_FvNO1QYu2DXQFuOh7seECrcOrn7H.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772947717",
+      "time_text": "2026-03-08 13:28:37",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132503_2222_FvNO1QYu2DXQFuOh7seECrcOrn7H.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132503_2222_FvNO1QYu2DXQFuOh7seECrcOrn7H.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2409,
+      "category_id": 200,
+      "weigh": 2410,
+      "model": "L36002",
+      "description": "荔枝面地铺石 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308132503_2207_FuEUXabFduVHIH2nUEWeiCjEKuOf.jpg",
+      "images": "/uploads/20260308/微信图片_20260308132503_2207_FuEUXabFduVHIH2nUEWeiCjEKuOf.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772947653",
+      "time_text": "2026-03-08 13:27:33",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132503_2207_FuEUXabFduVHIH2nUEWeiCjEKuOf.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132503_2207_FuEUXabFduVHIH2nUEWeiCjEKuOf.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2414,
+      "category_id": 200,
+      "weigh": 2409,
+      "model": "0",
+      "description": "背纹 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308132503_2201_FiJN9x35bHZLInCOwAEcVkISbeDT.jpg",
+      "images": "/uploads/20260308/微信图片_20260308132503_2201_FiJN9x35bHZLInCOwAEcVkISbeDT.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772947744",
+      "time_text": "2026-03-08 13:29:04",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132503_2201_FiJN9x35bHZLInCOwAEcVkISbeDT.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132503_2201_FiJN9x35bHZLInCOwAEcVkISbeDT.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2415,
+      "category_id": 200,
+      "weigh": 2408,
+      "model": "0",
+      "description": "厚度 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308132503_2204_Fvy0zcaSWPm3YJalX9K6jUOXpxhc.jpg",
+      "images": "/uploads/20260308/微信图片_20260308132503_2204_Fvy0zcaSWPm3YJalX9K6jUOXpxhc.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772947758",
+      "time_text": "2026-03-08 13:29:18",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132503_2204_Fvy0zcaSWPm3YJalX9K6jUOXpxhc.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132503_2204_Fvy0zcaSWPm3YJalX9K6jUOXpxhc.jpg?imageView2/0/w/1000"
+      ]
+    }
+  ]
+}

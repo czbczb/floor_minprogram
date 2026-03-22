@@ -117,9 +117,12 @@ Page({
 
   onCategoryTap(e) {
     const categoryId = e.currentTarget.dataset.id
+    const categoryOrigId = e.currentTarget.dataset.origid || categoryId
+    console.log('点击分类:', categoryId, categoryOrigId)
     // 存储到全局数据，tabbar页面通过onShow读取
     const app = getApp()
     app.globalData.selectedCategoryId = categoryId
+    app.globalData.selectedCategoryOrigId = categoryOrigId
     wx.switchTab({ url: '/pages/category/category' })
   },
 

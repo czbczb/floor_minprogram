@@ -1,0 +1,277 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "time": "1774092418",
+  "data": [
+    {
+      "id": 2596,
+      "category_id": 215,
+      "weigh": 2606,
+      "model": "8018",
+      "description": "3片/件 42公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/35c07b90a5582221f634574a88966d47_FiOzFwUdYSqq1kX0THBWYv1A2NKc.jpg",
+      "images": "/uploads/20260308/35c07b90a5582221f634574a88966d47_FiOzFwUdYSqq1kX0THBWYv1A2NKc.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955230",
+      "time_text": "2026-03-08 15:33:50",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/35c07b90a5582221f634574a88966d47_FiOzFwUdYSqq1kX0THBWYv1A2NKc.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/35c07b90a5582221f634574a88966d47_FiOzFwUdYSqq1kX0THBWYv1A2NKc.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2606,
+      "category_id": 215,
+      "weigh": 2604,
+      "model": "82537",
+      "description": "3片/件 42公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/c8852d3fbae2df029a5ec2e4073c833b_FjithSylG169M-ST8hTaUR3Gn5bv.jpg",
+      "images": "/uploads/20260308/c8852d3fbae2df029a5ec2e4073c833b_FjithSylG169M-ST8hTaUR3Gn5bv.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955354",
+      "time_text": "2026-03-08 15:35:54",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/c8852d3fbae2df029a5ec2e4073c833b_FjithSylG169M-ST8hTaUR3Gn5bv.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/c8852d3fbae2df029a5ec2e4073c833b_FjithSylG169M-ST8hTaUR3Gn5bv.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2604,
+      "category_id": 215,
+      "weigh": 2603,
+      "model": "8868",
+      "description": "3片/件 42公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/b94899695c0fa81e81a24658644586a7_FuHMCC3U6S4dHt9Et3Gv6jHSbRcA.jpg",
+      "images": "/uploads/20260308/b94899695c0fa81e81a24658644586a7_FuHMCC3U6S4dHt9Et3Gv6jHSbRcA.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955341",
+      "time_text": "2026-03-08 15:35:41",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/b94899695c0fa81e81a24658644586a7_FuHMCC3U6S4dHt9Et3Gv6jHSbRcA.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/b94899695c0fa81e81a24658644586a7_FuHMCC3U6S4dHt9Et3Gv6jHSbRcA.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2602,
+      "category_id": 215,
+      "weigh": 2602,
+      "model": "82538",
+      "description": "3片/件 42公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/094742c8d98180d246a5700bb347fde2_FvgO5lkYjodlFJsPG9_ekKhjGmxa.jpg",
+      "images": "/uploads/20260308/094742c8d98180d246a5700bb347fde2_FvgO5lkYjodlFJsPG9_ekKhjGmxa.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955309",
+      "time_text": "2026-03-08 15:35:09",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/094742c8d98180d246a5700bb347fde2_FvgO5lkYjodlFJsPG9_ekKhjGmxa.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/094742c8d98180d246a5700bb347fde2_FvgO5lkYjodlFJsPG9_ekKhjGmxa.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2601,
+      "category_id": 215,
+      "weigh": 2601,
+      "model": "82370",
+      "description": "3片/件 42公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/14467cb755168402019a82321ce0a89f_FvdWc_BkIWMRDKJL7kPJWL7y-lpZ.jpg",
+      "images": "/uploads/20260308/14467cb755168402019a82321ce0a89f_FvdWc_BkIWMRDKJL7kPJWL7y-lpZ.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955293",
+      "time_text": "2026-03-08 15:34:53",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/14467cb755168402019a82321ce0a89f_FvdWc_BkIWMRDKJL7kPJWL7y-lpZ.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/14467cb755168402019a82321ce0a89f_FvdWc_BkIWMRDKJL7kPJWL7y-lpZ.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2600,
+      "category_id": 215,
+      "weigh": 2600,
+      "model": "82532",
+      "description": "3片/件 42公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/1924fefeb2690a451db39c40908c3551_FrQR41E2f3Jz75fVK_mQ3Ttz7GU-.jpg",
+      "images": "/uploads/20260308/1924fefeb2690a451db39c40908c3551_FrQR41E2f3Jz75fVK_mQ3Ttz7GU-.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955283",
+      "time_text": "2026-03-08 15:34:43",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/1924fefeb2690a451db39c40908c3551_FrQR41E2f3Jz75fVK_mQ3Ttz7GU-.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/1924fefeb2690a451db39c40908c3551_FrQR41E2f3Jz75fVK_mQ3Ttz7GU-.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2597,
+      "category_id": 215,
+      "weigh": 2599,
+      "model": "82535",
+      "description": "3片/件 42公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/70cbae95a0d831ca3246d127f753bdec_FjIZ8waPIC4fHYSnjhvmK7OoB7jr.jpg",
+      "images": "/uploads/20260308/70cbae95a0d831ca3246d127f753bdec_FjIZ8waPIC4fHYSnjhvmK7OoB7jr.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955240",
+      "time_text": "2026-03-08 15:34:00",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/70cbae95a0d831ca3246d127f753bdec_FjIZ8waPIC4fHYSnjhvmK7OoB7jr.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/70cbae95a0d831ca3246d127f753bdec_FjIZ8waPIC4fHYSnjhvmK7OoB7jr.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2595,
+      "category_id": 215,
+      "weigh": 2598,
+      "model": "82302",
+      "description": "3片/件 42公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/7e0646a6d9e26ab37f243430d2e5c5ae_FioeanZRn8-dLmRAbbkv5CJ8Z0Iu.jpg",
+      "images": "/uploads/20260308/7e0646a6d9e26ab37f243430d2e5c5ae_FioeanZRn8-dLmRAbbkv5CJ8Z0Iu.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955209",
+      "time_text": "2026-03-08 15:33:29",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/7e0646a6d9e26ab37f243430d2e5c5ae_FioeanZRn8-dLmRAbbkv5CJ8Z0Iu.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/7e0646a6d9e26ab37f243430d2e5c5ae_FioeanZRn8-dLmRAbbkv5CJ8Z0Iu.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2593,
+      "category_id": 215,
+      "weigh": 2597,
+      "model": "82536",
+      "description": "3片/件 42公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/6db153b8f0078c284c269d7bbee6f479_FgErGiM2dknK1-u7bLoRR4aSO2LJ.jpg",
+      "images": "/uploads/20260308/6db153b8f0078c284c269d7bbee6f479_FgErGiM2dknK1-u7bLoRR4aSO2LJ.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955183",
+      "time_text": "2026-03-08 15:33:03",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/6db153b8f0078c284c269d7bbee6f479_FgErGiM2dknK1-u7bLoRR4aSO2LJ.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/6db153b8f0078c284c269d7bbee6f479_FgErGiM2dknK1-u7bLoRR4aSO2LJ.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2592,
+      "category_id": 215,
+      "weigh": 2596,
+      "model": "82533",
+      "description": "3片/件 42公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/2bed9d74047a495d0678d9213bb2a274_Fp13rkmtY8ZxiRalGNObqIGOm3_s.jpg",
+      "images": "/uploads/20260308/2bed9d74047a495d0678d9213bb2a274_Fp13rkmtY8ZxiRalGNObqIGOm3_s.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955172",
+      "time_text": "2026-03-08 15:32:52",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/2bed9d74047a495d0678d9213bb2a274_Fp13rkmtY8ZxiRalGNObqIGOm3_s.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/2bed9d74047a495d0678d9213bb2a274_Fp13rkmtY8ZxiRalGNObqIGOm3_s.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2591,
+      "category_id": 215,
+      "weigh": 2595,
+      "model": "82531",
+      "description": "3片/件  42公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/1fd2e2c6d4751d9392abe019b6afafb8_Fr2x4XAhGpba6F5Y7emxU07gFxNa.jpg",
+      "images": "/uploads/20260308/1fd2e2c6d4751d9392abe019b6afafb8_Fr2x4XAhGpba6F5Y7emxU07gFxNa.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955143",
+      "time_text": "2026-03-08 15:32:23",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/1fd2e2c6d4751d9392abe019b6afafb8_Fr2x4XAhGpba6F5Y7emxU07gFxNa.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/1fd2e2c6d4751d9392abe019b6afafb8_Fr2x4XAhGpba6F5Y7emxU07gFxNa.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2598,
+      "category_id": 215,
+      "weigh": 2594,
+      "model": "89C01",
+      "description": "3片/件 45公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/441e2a68a3353f1b1091d1b61c526c80_FuaoIWAhLLN_xH_lPipjo_wfxHdW.jpg",
+      "images": "/uploads/20260308/441e2a68a3353f1b1091d1b61c526c80_FuaoIWAhLLN_xH_lPipjo_wfxHdW.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955252",
+      "time_text": "2026-03-08 15:34:12",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/441e2a68a3353f1b1091d1b61c526c80_FuaoIWAhLLN_xH_lPipjo_wfxHdW.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/441e2a68a3353f1b1091d1b61c526c80_FuaoIWAhLLN_xH_lPipjo_wfxHdW.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2599,
+      "category_id": 215,
+      "weigh": 2593,
+      "model": "89C02",
+      "description": "3片/件 45公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/460bc839256b0d9ebdc1920fcc974f9b_FpW7q3q7LkUdEUC7l9zGqcskkvJs.jpg",
+      "images": "/uploads/20260308/460bc839256b0d9ebdc1920fcc974f9b_FpW7q3q7LkUdEUC7l9zGqcskkvJs.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955263",
+      "time_text": "2026-03-08 15:34:23",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/460bc839256b0d9ebdc1920fcc974f9b_FpW7q3q7LkUdEUC7l9zGqcskkvJs.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/460bc839256b0d9ebdc1920fcc974f9b_FpW7q3q7LkUdEUC7l9zGqcskkvJs.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2603,
+      "category_id": 215,
+      "weigh": 2592,
+      "model": "89C03",
+      "description": "3片/件 45公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/b9815e615fa53134b760490b62d4ca83_FioUjXTmjdrUbse1IJClyW3ZQHad.jpg",
+      "images": "/uploads/20260308/b9815e615fa53134b760490b62d4ca83_FioUjXTmjdrUbse1IJClyW3ZQHad.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955329",
+      "time_text": "2026-03-08 15:35:29",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/b9815e615fa53134b760490b62d4ca83_FioUjXTmjdrUbse1IJClyW3ZQHad.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/b9815e615fa53134b760490b62d4ca83_FioUjXTmjdrUbse1IJClyW3ZQHad.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2594,
+      "category_id": 215,
+      "weigh": 2591,
+      "model": "89C06",
+      "description": "3片/件 45公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/7bf213ec406aedaf118d27da78492355_Fv5x1wI2NRCCIBk_1eEQ9CqwIDPr.jpg",
+      "images": "/uploads/20260308/7bf213ec406aedaf118d27da78492355_Fv5x1wI2NRCCIBk_1eEQ9CqwIDPr.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955197",
+      "time_text": "2026-03-08 15:33:17",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/7bf213ec406aedaf118d27da78492355_Fv5x1wI2NRCCIBk_1eEQ9CqwIDPr.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/7bf213ec406aedaf118d27da78492355_Fv5x1wI2NRCCIBk_1eEQ9CqwIDPr.jpg?imageView2/0/w/1000"
+      ]
+    }
+  ]
+}

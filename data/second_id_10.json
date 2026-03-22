@@ -1,0 +1,49 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "time": "1774092316",
+  "data": [
+    {
+      "id": 203,
+      "title": "60精品仿古",
+      "weigh": 203,
+      "image": "/uploads/20260308/微信图片_20260308135902_2291_Fu6rmRrpgRojjNlkuWSASnfjXvrl.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308135902_2291_Fu6rmRrpgRojjNlkuWSASnfjXvrl.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 204,
+      "title": "60福禄宝仿古系列",
+      "weigh": 204,
+      "image": "/uploads/20260308/微信图片_20260308140506_2347_Fmi49h3AfXle91GO0iY9IrGoCwlp.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308140506_2347_Fmi49h3AfXle91GO0iY9IrGoCwlp.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 205,
+      "title": "60热销仿古",
+      "weigh": 205,
+      "image": "/uploads/20260308/微信图片_20260308141122_2393_FpHVTq3Wbf-PQ4fz0tEWoJAEkLiL.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308141122_2393_FpHVTq3Wbf-PQ4fz0tEWoJAEkLiL.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 206,
+      "title": "60水磨石系列",
+      "weigh": 206,
+      "image": "/uploads/20260308/微信图片_20260308142433_2437_FtzWQOhQ13CYnJONsAZP0doToW6D.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308142433_2437_FtzWQOhQ13CYnJONsAZP0doToW6D.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 207,
+      "title": "60素色",
+      "weigh": 207,
+      "image": "/uploads/20260308/微信图片_20260308143008_2476_FpAlRI6MFG7HuOiJ5MzMtVWbgSKz.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308143008_2476_FpAlRI6MFG7HuOiJ5MzMtVWbgSKz.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 217,
+      "title": "60*60配套80*80",
+      "weigh": 217,
+      "image": "/uploads/20260308/微信图片_20260308154437_3145_FpILlKlrgQXUenA9i0jaWXuHS6Z8.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308154437_3145_FpILlKlrgQXUenA9i0jaWXuHS6Z8.jpg?imageView2/0/w/1000"
+    }
+  ]
+}

@@ -8,7 +8,8 @@
 /* 左侧二级分类 */
 .left-sidebar {
   width: 180rpx;
-  height: 100%;
+  height: calc(100vh - env(safe-area-inset-top) - env(safe-area-inset-bottom));
+  height: -webkit-calc(100vh - 80px);
   background-color: #ffffff;
 }
 
@@ -40,7 +41,8 @@
 /* 右侧内容区 */
 .right-content {
   flex: 1;
-  height: 100%;
+  height: calc(100vh - env(safe-area-inset-top) - env(safe-area-inset-bottom));
+  height: -webkit-calc(100vh - 80px);
   display: flex;
   flex-direction: column;
 }

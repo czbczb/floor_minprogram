@@ -1,0 +1,818 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "time": "1774092507",
+  "data": [
+    {
+      "id": 2536,
+      "category_id": 202,
+      "weigh": 2536,
+      "model": "GD12614",
+      "description": "新爱马仕浅灰  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308134834_16445_106_FtBjZhPYLTVLfLHlqILz2VtFois9.jpg",
+      "images": "/uploads/20260308/微信图片_20260308134834_16445_106_FtBjZhPYLTVLfLHlqILz2VtFois9.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772952901",
+      "time_text": "2026-03-08 14:55:01",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308134834_16445_106_FtBjZhPYLTVLfLHlqILz2VtFois9.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308134834_16445_106_FtBjZhPYLTVLfLHlqILz2VtFois9.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2535,
+      "category_id": 202,
+      "weigh": 2535,
+      "model": "GD12615",
+      "description": "新爱马仕深灰  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308134813_16443_106_Fl12KiuVSTcn_9ysL3EgZYVvpsFM.jpg",
+      "images": "/uploads/20260308/微信图片_20260308134813_16443_106_Fl12KiuVSTcn_9ysL3EgZYVvpsFM.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772952838",
+      "time_text": "2026-03-08 14:53:58",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308134813_16443_106_Fl12KiuVSTcn_9ysL3EgZYVvpsFM.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308134813_16443_106_Fl12KiuVSTcn_9ysL3EgZYVvpsFM.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2530,
+      "category_id": 202,
+      "weigh": 2530,
+      "model": "GD12618",
+      "description": "云多拉灰  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308134802_16442_106_FopPneXMKKtfsV2KztapM93SxvC_.jpg",
+      "images": "/uploads/20260308/微信图片_20260308134802_16442_106_FopPneXMKKtfsV2KztapM93SxvC_.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772952647",
+      "time_text": "2026-03-08 14:50:47",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308134802_16442_106_FopPneXMKKtfsV2KztapM93SxvC_.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308134802_16442_106_FopPneXMKKtfsV2KztapM93SxvC_.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2527,
+      "category_id": 202,
+      "weigh": 2529,
+      "model": "GD6901",
+      "description": "流水石  1片/件   18公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308134206_16440_106_FleuTpehRqMI95jnbvw7nJ3ejwrx.jpg",
+      "images": "/uploads/20260308/微信图片_20260308134206_16440_106_FleuTpehRqMI95jnbvw7nJ3ejwrx.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772952537",
+      "time_text": "2026-03-08 14:48:57",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308134206_16440_106_FleuTpehRqMI95jnbvw7nJ3ejwrx.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308134206_16440_106_FleuTpehRqMI95jnbvw7nJ3ejwrx.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2526,
+      "category_id": 202,
+      "weigh": 2527,
+      "model": "LS6901",
+      "description": "流水石黑  1片/件   18公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308134201_16439_106_FrvXxlhiCOZBs0PDyU6cV7Pb2TFK.jpg",
+      "images": "/uploads/20260308/微信图片_20260308134201_16439_106_FrvXxlhiCOZBs0PDyU6cV7Pb2TFK.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772952473",
+      "time_text": "2026-03-08 14:47:53",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308134201_16439_106_FrvXxlhiCOZBs0PDyU6cV7Pb2TFK.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308134201_16439_106_FrvXxlhiCOZBs0PDyU6cV7Pb2TFK.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2524,
+      "category_id": 202,
+      "weigh": 2526,
+      "model": "RK212MG24",
+      "description": "洛基山深灰  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308134126_16437_106_FuapfRmA6uLR_wFydRazbQ2mu988.jpg",
+      "images": "/uploads/20260308/微信图片_20260308134126_16437_106_FuapfRmA6uLR_wFydRazbQ2mu988.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772952313",
+      "time_text": "2026-03-08 14:45:13",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308134126_16437_106_FuapfRmA6uLR_wFydRazbQ2mu988.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308134126_16437_106_FuapfRmA6uLR_wFydRazbQ2mu988.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2523,
+      "category_id": 202,
+      "weigh": 2525,
+      "model": "RK212MG23",
+      "description": "洛基山浅灰  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308134116_16436_106_Fqt5WUYh75RmzrXAYJ7UwiR3X8Iw.jpg",
+      "images": "/uploads/20260308/微信图片_20260308134116_16436_106_Fqt5WUYh75RmzrXAYJ7UwiR3X8Iw.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772952238",
+      "time_text": "2026-03-08 14:43:58",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308134116_16436_106_Fqt5WUYh75RmzrXAYJ7UwiR3X8Iw.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308134116_16436_106_Fqt5WUYh75RmzrXAYJ7UwiR3X8Iw.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2522,
+      "category_id": 202,
+      "weigh": 2524,
+      "model": "RK212MG22",
+      "description": "洛基山米黄  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308134106_16435_106_FjA7qicnku7GMof3Q7vaUYnV1pAs.jpg",
+      "images": "/uploads/20260308/微信图片_20260308134106_16435_106_FjA7qicnku7GMof3Q7vaUYnV1pAs.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772952172",
+      "time_text": "2026-03-08 14:42:52",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308134106_16435_106_FjA7qicnku7GMof3Q7vaUYnV1pAs.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308134106_16435_106_FjA7qicnku7GMof3Q7vaUYnV1pAs.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2521,
+      "category_id": 202,
+      "weigh": 2523,
+      "model": "RK212MG21",
+      "description": "洛基山米白  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308134057_16434_106_FuDYNCoiyxxd2-QwsGd7Ye5pEO6I.jpg",
+      "images": "/uploads/20260308/微信图片_20260308134057_16434_106_FuDYNCoiyxxd2-QwsGd7Ye5pEO6I.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772952105",
+      "time_text": "2026-03-08 14:41:45",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308134057_16434_106_FuDYNCoiyxxd2-QwsGd7Ye5pEO6I.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308134057_16434_106_FuDYNCoiyxxd2-QwsGd7Ye5pEO6I.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2514,
+      "category_id": 202,
+      "weigh": 2522,
+      "model": "RK212M34",
+      "description": "西澳云贝深灰  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133933_16432_106_FndgNogUl4P9w-yjAS9uK9LwtbTf.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133933_16432_106_FndgNogUl4P9w-yjAS9uK9LwtbTf.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772951991",
+      "time_text": "2026-03-08 14:39:51",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133933_16432_106_FndgNogUl4P9w-yjAS9uK9LwtbTf.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133933_16432_106_FndgNogUl4P9w-yjAS9uK9LwtbTf.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2509,
+      "category_id": 202,
+      "weigh": 2521,
+      "model": "RK21233",
+      "description": "西澳云贝中灰  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133926_16431_106_FrqbQPXINIzeFncDO1v-B30BwCFV.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133926_16431_106_FrqbQPXINIzeFncDO1v-B30BwCFV.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772951926",
+      "time_text": "2026-03-08 14:38:46",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133926_16431_106_FrqbQPXINIzeFncDO1v-B30BwCFV.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133926_16431_106_FrqbQPXINIzeFncDO1v-B30BwCFV.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2504,
+      "category_id": 202,
+      "weigh": 2514,
+      "model": "RK21232",
+      "description": "西澳云贝米黄  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133919_16430_106_FoiLPnexaUUca1RBFKHEBmU7zbKO.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133919_16430_106_FoiLPnexaUUca1RBFKHEBmU7zbKO.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772951855",
+      "time_text": "2026-03-08 14:37:35",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133919_16430_106_FoiLPnexaUUca1RBFKHEBmU7zbKO.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133919_16430_106_FoiLPnexaUUca1RBFKHEBmU7zbKO.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2503,
+      "category_id": 202,
+      "weigh": 2509,
+      "model": "RK212M31",
+      "description": "西澳云贝浅灰  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133911_16429_106_FscN97V6uW8zxiFfYR-tlb9VLKa-.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133911_16429_106_FscN97V6uW8zxiFfYR-tlb9VLKa-.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772951799",
+      "time_text": "2026-03-08 14:36:39",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133911_16429_106_FscN97V6uW8zxiFfYR-tlb9VLKa-.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133911_16429_106_FscN97V6uW8zxiFfYR-tlb9VLKa-.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2500,
+      "category_id": 202,
+      "weigh": 2504,
+      "model": "GD12682",
+      "description": "星蕴米黄  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133838_16426_106_FkoR2swGwHxMt1G3s9Xxs-6kpEtZ.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133838_16426_106_FkoR2swGwHxMt1G3s9Xxs-6kpEtZ.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772951600",
+      "time_text": "2026-03-08 14:33:20",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133838_16426_106_FkoR2swGwHxMt1G3s9Xxs-6kpEtZ.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133838_16426_106_FkoR2swGwHxMt1G3s9Xxs-6kpEtZ.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2497,
+      "category_id": 202,
+      "weigh": 2503,
+      "model": "GD12680",
+      "description": "星蕴米白  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133829_16425_106_Fn23gIvnOjYOvgHRs5xGHGncAfZD.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133829_16425_106_Fn23gIvnOjYOvgHRs5xGHGncAfZD.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772951521",
+      "time_text": "2026-03-08 14:32:01",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133829_16425_106_Fn23gIvnOjYOvgHRs5xGHGncAfZD.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133829_16425_106_Fn23gIvnOjYOvgHRs5xGHGncAfZD.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2493,
+      "category_id": 202,
+      "weigh": 2502,
+      "model": "GD12660",
+      "description": "西奥云贝米白  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133742_16423_106_FrO4ghW7WzTxwwfKj-rXzpG8INSc.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133742_16423_106_FrO4ghW7WzTxwwfKj-rXzpG8INSc.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772951391",
+      "time_text": "2026-03-08 14:29:51",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133742_16423_106_FrO4ghW7WzTxwwfKj-rXzpG8INSc.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133742_16423_106_FrO4ghW7WzTxwwfKj-rXzpG8INSc.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2492,
+      "category_id": 202,
+      "weigh": 2501,
+      "model": "GD12663",
+      "description": "西奥云贝深灰  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133731_16421_106_FhC8U7h0bUoe8RfmLWy4_JJL_hq1.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133731_16421_106_FhC8U7h0bUoe8RfmLWy4_JJL_hq1.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772951343",
+      "time_text": "2026-03-08 14:29:03",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133731_16421_106_FhC8U7h0bUoe8RfmLWy4_JJL_hq1.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133731_16421_106_FhC8U7h0bUoe8RfmLWy4_JJL_hq1.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2491,
+      "category_id": 202,
+      "weigh": 2500,
+      "model": "GD12662",
+      "description": "西奥云贝浅灰  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133718_16420_106_FkkD243cmVYQ5rp5GaGGD9KufnHv.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133718_16420_106_FkkD243cmVYQ5rp5GaGGD9KufnHv.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772951281",
+      "time_text": "2026-03-08 14:28:01",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133718_16420_106_FkkD243cmVYQ5rp5GaGGD9KufnHv.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133718_16420_106_FkkD243cmVYQ5rp5GaGGD9KufnHv.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2487,
+      "category_id": 202,
+      "weigh": 2497,
+      "model": "GD12661",
+      "description": "西奥云贝米黄  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133711_16419_106_Fvz41NDAZkHcd7KUL0B2YYIAdsQo.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133711_16419_106_Fvz41NDAZkHcd7KUL0B2YYIAdsQo.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772951209",
+      "time_text": "2026-03-08 14:26:49",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133711_16419_106_Fvz41NDAZkHcd7KUL0B2YYIAdsQo.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133711_16419_106_Fvz41NDAZkHcd7KUL0B2YYIAdsQo.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2481,
+      "category_id": 202,
+      "weigh": 2494,
+      "model": "GD12658",
+      "description": "檀香木  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133426_16416_106_FlqSHMWTfjtU9ultkjGUtTv_zTTw.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133426_16416_106_FlqSHMWTfjtU9ultkjGUtTv_zTTw.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772951139",
+      "time_text": "2026-03-08 14:25:39",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133426_16416_106_FlqSHMWTfjtU9ultkjGUtTv_zTTw.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133426_16416_106_FlqSHMWTfjtU9ultkjGUtTv_zTTw.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2479,
+      "category_id": 202,
+      "weigh": 2492,
+      "model": "GD12657",
+      "description": "黄檀木  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133418_16415_106_FrOwaVgpCXhnlPyP-bs3NYSLlJJ5.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133418_16415_106_FrOwaVgpCXhnlPyP-bs3NYSLlJJ5.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772951027",
+      "time_text": "2026-03-08 14:23:47",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133418_16415_106_FrOwaVgpCXhnlPyP-bs3NYSLlJJ5.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133418_16415_106_FrOwaVgpCXhnlPyP-bs3NYSLlJJ5.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2474,
+      "category_id": 202,
+      "weigh": 2491,
+      "model": "GD12652",
+      "description": "黄檀木  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133411_16414_106_Fj7jUgOSzjjH-V4wCqPNfILbRP9z.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133411_16414_106_Fj7jUgOSzjjH-V4wCqPNfILbRP9z.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772950977",
+      "time_text": "2026-03-08 14:22:57",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133411_16414_106_Fj7jUgOSzjjH-V4wCqPNfILbRP9z.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133411_16414_106_Fj7jUgOSzjjH-V4wCqPNfILbRP9z.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2469,
+      "category_id": 202,
+      "weigh": 2487,
+      "model": "GD12651",
+      "description": "红檀木  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133403_16413_106_Fqeeci_38HrUlTr2PnpdpkIUdwRq.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133403_16413_106_Fqeeci_38HrUlTr2PnpdpkIUdwRq.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772950922",
+      "time_text": "2026-03-08 14:22:02",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133403_16413_106_Fqeeci_38HrUlTr2PnpdpkIUdwRq.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133403_16413_106_Fqeeci_38HrUlTr2PnpdpkIUdwRq.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2468,
+      "category_id": 202,
+      "weigh": 2481,
+      "model": "GD12645",
+      "description": "阿尔卑斯黑  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133348_16412_106_FscGE7wKObeVOUE_lQMUS1aOMDyx.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133348_16412_106_FscGE7wKObeVOUE_lQMUS1aOMDyx.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772950850",
+      "time_text": "2026-03-08 14:20:50",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133348_16412_106_FscGE7wKObeVOUE_lQMUS1aOMDyx.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133348_16412_106_FscGE7wKObeVOUE_lQMUS1aOMDyx.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2467,
+      "category_id": 202,
+      "weigh": 2479,
+      "model": "GD12643",
+      "description": "阿尔卑斯深灰  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133338_16411_106_FlOJ2gjyeXEvGuxGioLBopiei3j0.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133338_16411_106_FlOJ2gjyeXEvGuxGioLBopiei3j0.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772950795",
+      "time_text": "2026-03-08 14:19:55",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133338_16411_106_FlOJ2gjyeXEvGuxGioLBopiei3j0.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133338_16411_106_FlOJ2gjyeXEvGuxGioLBopiei3j0.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2466,
+      "category_id": 202,
+      "weigh": 2474,
+      "model": "GD12642",
+      "description": "阿尔卑斯浅灰  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133326_16410_106_FsTL0EIAEDu89gtRJanpGbQcwra6.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133326_16410_106_FsTL0EIAEDu89gtRJanpGbQcwra6.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772950709",
+      "time_text": "2026-03-08 14:18:29",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133326_16410_106_FsTL0EIAEDu89gtRJanpGbQcwra6.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133326_16410_106_FsTL0EIAEDu89gtRJanpGbQcwra6.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2465,
+      "category_id": 202,
+      "weigh": 2469,
+      "model": "GD12641",
+      "description": "阿尔卑斯米白  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133312_16409_106_FslgcXad60NgU-F05Sd_zZ6D30oj.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133312_16409_106_FslgcXad60NgU-F05Sd_zZ6D30oj.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772950634",
+      "time_text": "2026-03-08 14:17:14",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133312_16409_106_FslgcXad60NgU-F05Sd_zZ6D30oj.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133312_16409_106_FslgcXad60NgU-F05Sd_zZ6D30oj.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2464,
+      "category_id": 202,
+      "weigh": 2468,
+      "model": "GD12638",
+      "description": "壁画黑  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133246_16408_106_FpCY3p8to2YDxpnCAbN3XVBhk3Rt.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133246_16408_106_FpCY3p8to2YDxpnCAbN3XVBhk3Rt.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772950569",
+      "time_text": "2026-03-08 14:16:09",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133246_16408_106_FpCY3p8to2YDxpnCAbN3XVBhk3Rt.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133246_16408_106_FpCY3p8to2YDxpnCAbN3XVBhk3Rt.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2463,
+      "category_id": 202,
+      "weigh": 2467,
+      "model": "GD12637",
+      "description": "壁画深灰  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133234_16407_106_FkkTF1tYyrCEsxxR1IbqVRGIC96g.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133234_16407_106_FkkTF1tYyrCEsxxR1IbqVRGIC96g.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772950514",
+      "time_text": "2026-03-08 14:15:14",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133234_16407_106_FkkTF1tYyrCEsxxR1IbqVRGIC96g.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133234_16407_106_FkkTF1tYyrCEsxxR1IbqVRGIC96g.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2462,
+      "category_id": 202,
+      "weigh": 2466,
+      "model": "GD12636",
+      "description": "壁画浅灰  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133227_16406_106_FjB1hr93zfMkLRxX3YzxnvdZHJzr.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133227_16406_106_FjB1hr93zfMkLRxX3YzxnvdZHJzr.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772950433",
+      "time_text": "2026-03-08 14:13:53",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133227_16406_106_FjB1hr93zfMkLRxX3YzxnvdZHJzr.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133227_16406_106_FjB1hr93zfMkLRxX3YzxnvdZHJzr.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2461,
+      "category_id": 202,
+      "weigh": 2465,
+      "model": "GD12635",
+      "description": "壁画米白  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133216_16405_106_Ft65Ihc9PsXeEFK95q5Rhjz_Xtwq.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133216_16405_106_Ft65Ihc9PsXeEFK95q5Rhjz_Xtwq.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772950354",
+      "time_text": "2026-03-08 14:12:34",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133216_16405_106_Ft65Ihc9PsXeEFK95q5Rhjz_Xtwq.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133216_16405_106_Ft65Ihc9PsXeEFK95q5Rhjz_Xtwq.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2460,
+      "category_id": 202,
+      "weigh": 2464,
+      "model": "GD12684#",
+      "description": "星空白  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133142_16404_106_FoZW676OmVx7mJF6hex9mY0YeRHr.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133142_16404_106_FoZW676OmVx7mJF6hex9mY0YeRHr.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772950263",
+      "time_text": "2026-03-08 14:11:03",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133142_16404_106_FoZW676OmVx7mJF6hex9mY0YeRHr.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133142_16404_106_FoZW676OmVx7mJF6hex9mY0YeRHr.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2448,
+      "category_id": 202,
+      "weigh": 2463,
+      "model": "GD12632",
+      "description": "星河中灰  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308132923_16402_106_Fn5kfz4l6Ed9UJw_iMQV9wOuqXDJ.jpg",
+      "images": "/uploads/20260308/微信图片_20260308132923_16402_106_Fn5kfz4l6Ed9UJw_iMQV9wOuqXDJ.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772950063",
+      "time_text": "2026-03-08 14:07:43",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132923_16402_106_Fn5kfz4l6Ed9UJw_iMQV9wOuqXDJ.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132923_16402_106_Fn5kfz4l6Ed9UJw_iMQV9wOuqXDJ.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2447,
+      "category_id": 202,
+      "weigh": 2462,
+      "model": "GD12631",
+      "description": "星河浅灰  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308132916_16401_106_Fuux_6vZTCUhhY_rX2SJKCPtaUUH.jpg",
+      "images": "/uploads/20260308/微信图片_20260308132916_16401_106_Fuux_6vZTCUhhY_rX2SJKCPtaUUH.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772949972",
+      "time_text": "2026-03-08 14:06:12",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132916_16401_106_Fuux_6vZTCUhhY_rX2SJKCPtaUUH.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132916_16401_106_Fuux_6vZTCUhhY_rX2SJKCPtaUUH.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2446,
+      "category_id": 202,
+      "weigh": 2461,
+      "model": "GD12675",
+      "description": "星河米白  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308132550_16399_106_Fl_ryBhH1idsoEqBzhbNfcPGcf8c.jpg",
+      "images": "/uploads/20260308/微信图片_20260308132550_16399_106_Fl_ryBhH1idsoEqBzhbNfcPGcf8c.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772949879",
+      "time_text": "2026-03-08 14:04:39",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132550_16399_106_Fl_ryBhH1idsoEqBzhbNfcPGcf8c.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132550_16399_106_Fl_ryBhH1idsoEqBzhbNfcPGcf8c.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2436,
+      "category_id": 202,
+      "weigh": 2460,
+      "model": "GD12676",
+      "description": "星河灰  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308132530_16398_106(1)_FizQDW-jZT_IgRyAlIgueMf9YZzR.jpg",
+      "images": "/uploads/20260308/微信图片_20260308132530_16398_106(1)_FizQDW-jZT_IgRyAlIgueMf9YZzR.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772949634",
+      "time_text": "2026-03-08 14:00:34",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132530_16398_106(1)_FizQDW-jZT_IgRyAlIgueMf9YZzR.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132530_16398_106(1)_FizQDW-jZT_IgRyAlIgueMf9YZzR.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2435,
+      "category_id": 202,
+      "weigh": 2448,
+      "model": "GD12678",
+      "description": "星河白  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308132444_16397_106_FgNH81KXYUH3xoYK2tRj4dyc43UG.jpg",
+      "images": "/uploads/20260308/微信图片_20260308132444_16397_106_FgNH81KXYUH3xoYK2tRj4dyc43UG.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772949487",
+      "time_text": "2026-03-08 13:58:07",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132444_16397_106_FgNH81KXYUH3xoYK2tRj4dyc43UG.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132444_16397_106_FgNH81KXYUH3xoYK2tRj4dyc43UG.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2430,
+      "category_id": 202,
+      "weigh": 2447,
+      "model": "GD12677 ",
+      "description": "银河黑  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308132411_16395_106_FgoGM4S_a-2n0YBP_XiZRAvywDtQ.jpg",
+      "images": "/uploads/20260308/微信图片_20260308132411_16395_106_FgoGM4S_a-2n0YBP_XiZRAvywDtQ.jpg,/uploads/20260308/微信图片_20260308132421_16396_106_Fl_GkpUPk_oVeNmt5NH5uB7K8AOA.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772949247",
+      "time_text": "2026-03-08 13:54:07",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132411_16395_106_FgoGM4S_a-2n0YBP_XiZRAvywDtQ.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132411_16395_106_FgoGM4S_a-2n0YBP_XiZRAvywDtQ.jpg?imageView2/0/w/1000",
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132421_16396_106_Fl_GkpUPk_oVeNmt5NH5uB7K8AOA.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2434,
+      "category_id": 202,
+      "weigh": 2446,
+      "model": "0",
+      "description": "幕墙  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308132353_16393_106_Fj29A_vEo_2wgr0_Dtl8bsWqs4rN.jpg",
+      "images": "/uploads/20260308/微信图片_20260308132353_16393_106_Fj29A_vEo_2wgr0_Dtl8bsWqs4rN.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772949338",
+      "time_text": "2026-03-08 13:55:38",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132353_16393_106_Fj29A_vEo_2wgr0_Dtl8bsWqs4rN.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132353_16393_106_Fj29A_vEo_2wgr0_Dtl8bsWqs4rN.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2525,
+      "category_id": 202,
+      "weigh": 2436,
+      "model": "0",
+      "description": "幕墙  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308134152_16438_106_FpSRp0ojv9nJ7uTRUTwVcM9CK1TN.jpg",
+      "images": "/uploads/20260308/微信图片_20260308134152_16438_106_FpSRp0ojv9nJ7uTRUTwVcM9CK1TN.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772952345",
+      "time_text": "2026-03-08 14:45:45",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308134152_16438_106_FpSRp0ojv9nJ7uTRUTwVcM9CK1TN.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308134152_16438_106_FpSRp0ojv9nJ7uTRUTwVcM9CK1TN.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2432,
+      "category_id": 202,
+      "weigh": 2435,
+      "model": "0",
+      "description": "幕墙  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308132341_16392_106_FpNeRx_eHwQLq_c3Vo8wRqAa3V2-.jpg",
+      "images": "/uploads/20260308/微信图片_20260308132341_16392_106_FpNeRx_eHwQLq_c3Vo8wRqAa3V2-.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772949297",
+      "time_text": "2026-03-08 13:54:57",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132341_16392_106_FpNeRx_eHwQLq_c3Vo8wRqAa3V2-.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132341_16392_106_FpNeRx_eHwQLq_c3Vo8wRqAa3V2-.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2501,
+      "category_id": 202,
+      "weigh": 2434,
+      "model": "0",
+      "description": "幕墙  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133842_16427_106_Fmf7sUQ2Tb3GU5TODuXptAX2m4_i.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133842_16427_106_Fmf7sUQ2Tb3GU5TODuXptAX2m4_i.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772951640",
+      "time_text": "2026-03-08 14:34:00",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133842_16427_106_Fmf7sUQ2Tb3GU5TODuXptAX2m4_i.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133842_16427_106_Fmf7sUQ2Tb3GU5TODuXptAX2m4_i.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2429,
+      "category_id": 202,
+      "weigh": 2432,
+      "model": "0",
+      "description": "幕墙  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308132333_16391_106_FqzhoNzv2amH8U4HzxH-aTC3uKXc.jpg",
+      "images": "/uploads/20260308/微信图片_20260308132333_16391_106_FqzhoNzv2amH8U4HzxH-aTC3uKXc.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772949077",
+      "time_text": "2026-03-08 13:51:17",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132333_16391_106_FqzhoNzv2amH8U4HzxH-aTC3uKXc.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132333_16391_106_FqzhoNzv2amH8U4HzxH-aTC3uKXc.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2494,
+      "category_id": 202,
+      "weigh": 2430,
+      "model": "0",
+      "description": "幕墙  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308133746_16424_106_Ftxil95oU_fY_9FWAYjVoGxgre02.jpg",
+      "images": "/uploads/20260308/微信图片_20260308133746_16424_106_Ftxil95oU_fY_9FWAYjVoGxgre02.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772951434",
+      "time_text": "2026-03-08 14:30:34",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133746_16424_106_Ftxil95oU_fY_9FWAYjVoGxgre02.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308133746_16424_106_Ftxil95oU_fY_9FWAYjVoGxgre02.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2529,
+      "category_id": 202,
+      "weigh": 2429,
+      "model": "0",
+      "description": "流水石  2片/件   60公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308134211_16441_106_FrF6Q3bnKGBFZRt7vt6Dg2Paqd2J.jpg",
+      "images": "/uploads/20260308/微信图片_20260308134211_16441_106_FrF6Q3bnKGBFZRt7vt6Dg2Paqd2J.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772952579",
+      "time_text": "2026-03-08 14:49:39",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308134211_16441_106_FrF6Q3bnKGBFZRt7vt6Dg2Paqd2J.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308134211_16441_106_FrF6Q3bnKGBFZRt7vt6Dg2Paqd2J.jpg?imageView2/0/w/1000"
+      ]
+    }
+  ]
+}

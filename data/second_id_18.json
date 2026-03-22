@@ -1,0 +1,21 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "time": "1774092670",
+  "data": [
+    {
+      "id": 223,
+      "title": "拼花1.8厚",
+      "weigh": 223,
+      "image": "/uploads/20260308/微信图片_20260308163349_3349_Fnss7CpTP0NbvdKec2Rnf4L7BD20.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308163349_3349_Fnss7CpTP0NbvdKec2Rnf4L7BD20.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 224,
+      "title": "拼花1.2厚",
+      "weigh": 224,
+      "image": "/uploads/20260309/微信图片_20260309083250_19_FjeL-6ivN369p_9UVQTfRItGcvi-.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309083250_19_FjeL-6ivN369p_9UVQTfRItGcvi-.jpg?imageView2/0/w/1000"
+    }
+  ]
+}

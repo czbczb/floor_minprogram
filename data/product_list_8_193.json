@@ -1,0 +1,241 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "time": "1774092908",
+  "data": [
+    {
+      "id": 2433,
+      "category_id": 193,
+      "weigh": 2433,
+      "model": "0",
+      "description": "合集 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/d34aab5cac00f0d7d2a9f1e73a7171ee_Fu4QmXnQM30uCW7ySWrRmOM4GtEd.jpg",
+      "images": "/uploads/20260308/d34aab5cac00f0d7d2a9f1e73a7171ee_Fu4QmXnQM30uCW7ySWrRmOM4GtEd.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772949335",
+      "time_text": "2026-03-08 13:55:35",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/d34aab5cac00f0d7d2a9f1e73a7171ee_Fu4QmXnQM30uCW7ySWrRmOM4GtEd.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/d34aab5cac00f0d7d2a9f1e73a7171ee_Fu4QmXnQM30uCW7ySWrRmOM4GtEd.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2368,
+      "category_id": 193,
+      "weigh": 2371,
+      "model": "35C18",
+      "description": "地铺石 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/ab29c0aa680f4f3de60de5cc9365aac4_Fm_7xFUNoHQtnrCZOqjvyn06EKj7.jpg",
+      "images": "/uploads/20260308/ab29c0aa680f4f3de60de5cc9365aac4_Fm_7xFUNoHQtnrCZOqjvyn06EKj7.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772944386",
+      "time_text": "2026-03-08 12:33:06",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/ab29c0aa680f4f3de60de5cc9365aac4_Fm_7xFUNoHQtnrCZOqjvyn06EKj7.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/ab29c0aa680f4f3de60de5cc9365aac4_Fm_7xFUNoHQtnrCZOqjvyn06EKj7.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2367,
+      "category_id": 193,
+      "weigh": 2370,
+      "model": "3518",
+      "description": "地铺石 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/099763d6f4ff27bc8431a0e5c1e94f7d_FhQg648uxh5Z7aI2Cvq9ezES8huL.jpg",
+      "images": "/uploads/20260308/099763d6f4ff27bc8431a0e5c1e94f7d_FhQg648uxh5Z7aI2Cvq9ezES8huL.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772944370",
+      "time_text": "2026-03-08 12:32:50",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/099763d6f4ff27bc8431a0e5c1e94f7d_FhQg648uxh5Z7aI2Cvq9ezES8huL.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/099763d6f4ff27bc8431a0e5c1e94f7d_FhQg648uxh5Z7aI2Cvq9ezES8huL.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2370,
+      "category_id": 193,
+      "weigh": 2369,
+      "model": "35C05",
+      "description": "地铺石 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/dd164f829cbcc87921a12d7d3c41861d_Fl_5uDMNxK_NOIWmpBtEdSku994O.jpg",
+      "images": "/uploads/20260308/dd164f829cbcc87921a12d7d3c41861d_Fl_5uDMNxK_NOIWmpBtEdSku994O.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772944461",
+      "time_text": "2026-03-08 12:34:21",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/dd164f829cbcc87921a12d7d3c41861d_Fl_5uDMNxK_NOIWmpBtEdSku994O.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/dd164f829cbcc87921a12d7d3c41861d_Fl_5uDMNxK_NOIWmpBtEdSku994O.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2366,
+      "category_id": 193,
+      "weigh": 2368,
+      "model": "3505",
+      "description": "地铺石 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/76765e574ee5f7537a6a89d707620e95_FurVD42LHkfChTTc-yta0bpGpflp.jpg",
+      "images": "/uploads/20260308/76765e574ee5f7537a6a89d707620e95_FurVD42LHkfChTTc-yta0bpGpflp.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772944340",
+      "time_text": "2026-03-08 12:32:20",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/76765e574ee5f7537a6a89d707620e95_FurVD42LHkfChTTc-yta0bpGpflp.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/76765e574ee5f7537a6a89d707620e95_FurVD42LHkfChTTc-yta0bpGpflp.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2369,
+      "category_id": 193,
+      "weigh": 2367,
+      "model": "35C02",
+      "description": "地铺石 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/ca531564d6e48ec4ecd32faec027de5e_FvX2yaq20zuZKZhcjQ6bZwzPVG9Y.jpg",
+      "images": "/uploads/20260308/ca531564d6e48ec4ecd32faec027de5e_FvX2yaq20zuZKZhcjQ6bZwzPVG9Y.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772944415",
+      "time_text": "2026-03-08 12:33:35",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/ca531564d6e48ec4ecd32faec027de5e_FvX2yaq20zuZKZhcjQ6bZwzPVG9Y.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/ca531564d6e48ec4ecd32faec027de5e_FvX2yaq20zuZKZhcjQ6bZwzPVG9Y.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2364,
+      "category_id": 193,
+      "weigh": 2366,
+      "model": "3502",
+      "description": "地铺石 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/2621a004ea05035015c9a3e5424f5eca_FsQLI4uywk3Qj0SR3fxTsFsp7C2h.jpg",
+      "images": "/uploads/20260308/2621a004ea05035015c9a3e5424f5eca_FsQLI4uywk3Qj0SR3fxTsFsp7C2h.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772944297",
+      "time_text": "2026-03-08 12:31:37",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/2621a004ea05035015c9a3e5424f5eca_FsQLI4uywk3Qj0SR3fxTsFsp7C2h.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/2621a004ea05035015c9a3e5424f5eca_FsQLI4uywk3Qj0SR3fxTsFsp7C2h.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2363,
+      "category_id": 193,
+      "weigh": 2365,
+      "model": "3503",
+      "description": "地铺石 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/25fb3c3fdf2b03cbaad9c0c0aa64e813_FtjBfRhEtt43bfqAyai_KzFTjnNN.jpg",
+      "images": "/uploads/20260308/25fb3c3fdf2b03cbaad9c0c0aa64e813_FtjBfRhEtt43bfqAyai_KzFTjnNN.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772944273",
+      "time_text": "2026-03-08 12:31:13",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/25fb3c3fdf2b03cbaad9c0c0aa64e813_FtjBfRhEtt43bfqAyai_KzFTjnNN.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/25fb3c3fdf2b03cbaad9c0c0aa64e813_FtjBfRhEtt43bfqAyai_KzFTjnNN.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2365,
+      "category_id": 193,
+      "weigh": 2364,
+      "model": "35C03",
+      "description": "地铺石 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/10548da4d11637c0b18d39c84c96edae_Fn6mXBHVM8GRizEZfrEyriQtLJCr.jpg",
+      "images": "/uploads/20260308/10548da4d11637c0b18d39c84c96edae_Fn6mXBHVM8GRizEZfrEyriQtLJCr.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772944323",
+      "time_text": "2026-03-08 12:32:03",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/10548da4d11637c0b18d39c84c96edae_Fn6mXBHVM8GRizEZfrEyriQtLJCr.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/10548da4d11637c0b18d39c84c96edae_Fn6mXBHVM8GRizEZfrEyriQtLJCr.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2371,
+      "category_id": 193,
+      "weigh": 2363,
+      "model": "6C06",
+      "description": "地铺石 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/fc6f69e4096dba4df8cab035807c842b_FkrQ8UUyODg8WsMWqWnnmGXlvfyu.jpg",
+      "images": "/uploads/20260308/fc6f69e4096dba4df8cab035807c842b_FkrQ8UUyODg8WsMWqWnnmGXlvfyu.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772944488",
+      "time_text": "2026-03-08 12:34:48",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/fc6f69e4096dba4df8cab035807c842b_FkrQ8UUyODg8WsMWqWnnmGXlvfyu.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/fc6f69e4096dba4df8cab035807c842b_FkrQ8UUyODg8WsMWqWnnmGXlvfyu.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2361,
+      "category_id": 193,
+      "weigh": 2362,
+      "model": "6306",
+      "description": "地铺石 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/6a76bd0267183f9ea01dd07a6667e27b_FmWhhW48sSa6ZSb1FUs5sLwybyIP.jpg",
+      "images": "/uploads/20260308/6a76bd0267183f9ea01dd07a6667e27b_FmWhhW48sSa6ZSb1FUs5sLwybyIP.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772944247",
+      "time_text": "2026-03-08 12:30:47",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/6a76bd0267183f9ea01dd07a6667e27b_FmWhhW48sSa6ZSb1FUs5sLwybyIP.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/6a76bd0267183f9ea01dd07a6667e27b_FmWhhW48sSa6ZSb1FUs5sLwybyIP.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2360,
+      "category_id": 193,
+      "weigh": 2361,
+      "model": "3513",
+      "description": "地铺石 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/3d735e472bc254d3d077117d1d16e121_FppDNdFYbZlHIwqWLnQLmmiBfVOF.jpg",
+      "images": "/uploads/20260308/3d735e472bc254d3d077117d1d16e121_FppDNdFYbZlHIwqWLnQLmmiBfVOF.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772944223",
+      "time_text": "2026-03-08 12:30:23",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/3d735e472bc254d3d077117d1d16e121_FppDNdFYbZlHIwqWLnQLmmiBfVOF.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/3d735e472bc254d3d077117d1d16e121_FppDNdFYbZlHIwqWLnQLmmiBfVOF.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2362,
+      "category_id": 193,
+      "weigh": 2360,
+      "model": "6309",
+      "description": "地铺石 5片/件 35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/8cdea0a28ecde4d576feb12319a3d241_Fp5hvoDm4bfDa5HqCtLJACcz8t08.jpg",
+      "images": "/uploads/20260308/8cdea0a28ecde4d576feb12319a3d241_Fp5hvoDm4bfDa5HqCtLJACcz8t08.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772944261",
+      "time_text": "2026-03-08 12:31:01",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/8cdea0a28ecde4d576feb12319a3d241_Fp5hvoDm4bfDa5HqCtLJACcz8t08.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/8cdea0a28ecde4d576feb12319a3d241_Fp5hvoDm4bfDa5HqCtLJACcz8t08.jpg?imageView2/0/w/1000"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "time": "1774092293",
+  "data": [
+    {
+      "id": 2389,
+      "category_id": 196,
+      "weigh": 2390,
+      "model": "908301",
+      "description": "瓷莱美 3片/件 40公斤",
+      "param": "",
+      "image": "/uploads/20260308/1852ccdf4257153c325c6986817885c6_FtPEnD6wnyVE4rxo1uHvmvxvtHon.jpg",
+      "images": "/uploads/20260308/1852ccdf4257153c325c6986817885c6_FtPEnD6wnyVE4rxo1uHvmvxvtHon.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772945936",
+      "time_text": "2026-03-08 12:58:56",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/1852ccdf4257153c325c6986817885c6_FtPEnD6wnyVE4rxo1uHvmvxvtHon.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/1852ccdf4257153c325c6986817885c6_FtPEnD6wnyVE4rxo1uHvmvxvtHon.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2388,
+      "category_id": 196,
+      "weigh": 2389,
+      "model": "908302",
+      "description": "瓷莱美 3片/件 40公斤",
+      "param": "",
+      "image": "/uploads/20260308/49ea8984c461e184bf15bb267fa4ad6d_FhRRZomNSTj-FqEoLkWQ7Of2y6ww.jpg",
+      "images": "/uploads/20260308/49ea8984c461e184bf15bb267fa4ad6d_FhRRZomNSTj-FqEoLkWQ7Of2y6ww.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772945919",
+      "time_text": "2026-03-08 12:58:39",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/49ea8984c461e184bf15bb267fa4ad6d_FhRRZomNSTj-FqEoLkWQ7Of2y6ww.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/49ea8984c461e184bf15bb267fa4ad6d_FhRRZomNSTj-FqEoLkWQ7Of2y6ww.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2386,
+      "category_id": 196,
+      "weigh": 2388,
+      "model": "908303",
+      "description": "瓷莱美 3片/件 40公斤",
+      "param": "",
+      "image": "/uploads/20260308/d4795ae1ff88060510684c4190c1f99a_FlE7VuLjMY_l2s1TM3obKWtUzVSU.jpg",
+      "images": "/uploads/20260308/d4795ae1ff88060510684c4190c1f99a_FlE7VuLjMY_l2s1TM3obKWtUzVSU.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772945882",
+      "time_text": "2026-03-08 12:58:02",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/d4795ae1ff88060510684c4190c1f99a_FlE7VuLjMY_l2s1TM3obKWtUzVSU.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/d4795ae1ff88060510684c4190c1f99a_FlE7VuLjMY_l2s1TM3obKWtUzVSU.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2385,
+      "category_id": 196,
+      "weigh": 2387,
+      "model": "908305",
+      "description": "瓷莱美 3片/件 40公斤",
+      "param": "",
+      "image": "/uploads/20260308/0b35e900ec52a475547f8f22d2d49658_FrTEcGYyPse-D3gad7ypKpRYftKg.jpg",
+      "images": "/uploads/20260308/0b35e900ec52a475547f8f22d2d49658_FrTEcGYyPse-D3gad7ypKpRYftKg.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772945856",
+      "time_text": "2026-03-08 12:57:36",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/0b35e900ec52a475547f8f22d2d49658_FrTEcGYyPse-D3gad7ypKpRYftKg.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/0b35e900ec52a475547f8f22d2d49658_FrTEcGYyPse-D3gad7ypKpRYftKg.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2387,
+      "category_id": 196,
+      "weigh": 2386,
+      "model": "908306",
+      "description": "瓷莱美 3片/件 40公斤",
+      "param": "",
+      "image": "/uploads/20260308/5d83fc6db6ec340189f72880e43750f5_Fr_i9KnDNUdvpR_Sz8h-s36SmxpZ.jpg",
+      "images": "/uploads/20260308/5d83fc6db6ec340189f72880e43750f5_Fr_i9KnDNUdvpR_Sz8h-s36SmxpZ.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772945901",
+      "time_text": "2026-03-08 12:58:21",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/5d83fc6db6ec340189f72880e43750f5_Fr_i9KnDNUdvpR_Sz8h-s36SmxpZ.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/5d83fc6db6ec340189f72880e43750f5_Fr_i9KnDNUdvpR_Sz8h-s36SmxpZ.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2390,
+      "category_id": 196,
+      "weigh": 2385,
+      "model": "908307",
+      "description": "瓷莱美 3片/件 40公斤",
+      "param": "",
+      "image": "/uploads/20260308/353265bca2ab4209fcbfb1ac9ff91c74_FqHJzNLirkMC9R9nleS5AbB5azJp.jpg",
+      "images": "/uploads/20260308/353265bca2ab4209fcbfb1ac9ff91c74_FqHJzNLirkMC9R9nleS5AbB5azJp.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772945951",
+      "time_text": "2026-03-08 12:59:11",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/353265bca2ab4209fcbfb1ac9ff91c74_FqHJzNLirkMC9R9nleS5AbB5azJp.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/353265bca2ab4209fcbfb1ac9ff91c74_FqHJzNLirkMC9R9nleS5AbB5azJp.jpg?imageView2/0/w/1000"
+      ]
+    }
+  ]
+}

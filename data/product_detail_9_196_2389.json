@@ -1,0 +1,23 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "time": "1774087146",
+  "data": {
+    "id": 2389,
+    "category_id": 196,
+    "weigh": 2390,
+    "model": "908301",
+    "description": "瓷莱美 3片/件 40公斤",
+    "param": "",
+    "image": "/uploads/20260308/1852ccdf4257153c325c6986817885c6_FtPEnD6wnyVE4rxo1uHvmvxvtHon.jpg",
+    "images": "/uploads/20260308/1852ccdf4257153c325c6986817885c6_FtPEnD6wnyVE4rxo1uHvmvxvtHon.jpg",
+    "copy": null,
+    "copy2": null,
+    "time": "1772945936",
+    "time_text": "2026-03-08 12:58:56",
+    "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/1852ccdf4257153c325c6986817885c6_FtPEnD6wnyVE4rxo1uHvmvxvtHon.jpg?imageView2/0/w/1000",
+    "images_path": [
+      "https://v-erp.cdn.xingningjt.com/uploads/20260308/1852ccdf4257153c325c6986817885c6_FtPEnD6wnyVE4rxo1uHvmvxvtHon.jpg?imageView2/0/w/1000"
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+[
+    {
+        "id": 8,
+        "title": "地铺石",
+        "img": "/uploads/20260308/微信图片_20260306101249_Fr2Gbn5-I53Xu4QcBx5P4QSHgjbC.jpg",
+        "type": "icon",
+        "category_ids": "194,227,228,231,230,193,201,192,229,200,195,232",
+        "type2": "category",
+        "weigh": 0,
+        "content": "",
+        "img_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260306101249_Fr2Gbn5-I53Xu4QcBx5P4QSHgjbC.jpg?imageView2/0/w/1000"
+    },
+    {
+        "id": 9,
+        "title": "亮光砖",
+        "img": "/uploads/20260308/a661119707991a2d59af353fcecd35ac_Fl75FIyaM4R-5qwUmsyrH_5IiOpx.jpg",
+        "type": "icon",
+        "category_ids": "197,196,199,198",
+        "type2": "category",
+        "weigh": 0,
+        "content": "",
+        "img_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/a661119707991a2d59af353fcecd35ac_Fl75FIyaM4R-5qwUmsyrH_5IiOpx.jpg?imageView2/0/w/1000"
+    },
+    {
+        "id": 10,
+        "title": "600仿古",
+        "img": "/uploads/20260308/微信图片_20260308140506_2347_Fmi49h3AfXle91GO0iY9IrGoCwlp.jpg",
+        "type": "icon",
+        "category_ids": "206,205,204,203,207,217",
+        "type2": "category",
+        "weigh": 0,
+        "content": "",
+        "img_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308140506_2347_Fmi49h3AfXle91GO0iY9IrGoCwlp.jpg?imageView2/0/w/1000"
+    },
+    {
+        "id": 11,
+        "title": "800仿古",
+        "img": "/uploads/20260308/微信图片_20260308145905_2608_FjkoSOKOnMGRUW-_yF9mVD4gco4n.jpg",
+        "type": "icon",
+        "category_ids": "219,213,215,209,208,212,210,226",
+        "type2": "category",
+        "weigh": 0,
+        "content": "",
+        "img_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308145905_2608_FjkoSOKOnMGRUW-_yF9mVD4gco4n.jpg?imageView2/0/w/1000"
+    },
+    {
+        "id": 12,
+        "title": "幕墙",
+        "img": "/uploads/20260308/微信图片_20260308150756_2689_FsjoGQW6Pz6Vo5cwgdfn01imTYKJ.jpg",
+        "type": "icon",
+        "category_ids": "202",
+        "type2": "list",
+        "weigh": 0,
+        "content": "",
+        "img_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308150756_2689_FsjoGQW6Pz6Vo5cwgdfn01imTYKJ.jpg?imageView2/0/w/1000"
+    },
+    {
+        "id": 13,
+        "title": "60古建1.2厚",
+        "img": "/uploads/20260308/86ba468bcee2b1290f99550165ef8a21_FkQeNVNqFQjR1dCE3zk1zi1ulmmW.jpg",
+        "type": "icon",
+        "category_ids": "211",
+        "type2": "list",
+        "weigh": 0,
+        "content": "",
+        "img_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/86ba468bcee2b1290f99550165ef8a21_FkQeNVNqFQjR1dCE3zk1zi1ulmmW.jpg?imageView2/0/w/1000"
+    },
+    {
+        "id": 14,
+        "title": "外墙30*60",
+        "img": "/uploads/20260308/895f5f61a5a1d83fbb401810de383c3c_FrUSl537uAbkMRaxxCAXT66LSzbi.jpg",
+        "type": "icon",
+        "category_ids": "214,225",
+        "type2": "category",
+        "weigh": 0,
+        "content": "",
+        "img_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/895f5f61a5a1d83fbb401810de383c3c_FrUSl537uAbkMRaxxCAXT66LSzbi.jpg?imageView2/0/w/1000"
+    },
+    {
+        "id": 15,
+        "title": "吸水砖、小地砖",
+        "img": "/uploads/20260308/5a7cac9073b383b3ba1ca24da7166a17_FqVUFrzQoqAtUBlb7pvY37gSuhb8.jpg",
+        "type": "icon",
+        "category_ids": "216,218",
+        "type2": "category",
+        "weigh": 0,
+        "content": "",
+        "img_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/5a7cac9073b383b3ba1ca24da7166a17_FqVUFrzQoqAtUBlb7pvY37gSuhb8.jpg?imageView2/0/w/1000"
+    },
+    {
+        "id": 16,
+        "title": "莱姆石",
+        "img": "/uploads/20260308/微信图片_20260308162557_3320_FktcRcuDWuOWZM7XWefkEkQHAnns.jpg",
+        "type": "icon",
+        "category_ids": "220,221,222",
+        "type2": "category",
+        "weigh": 0,
+        "content": "",
+        "img_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308162557_3320_FktcRcuDWuOWZM7XWefkEkQHAnns.jpg?imageView2/0/w/1000"
+    },
+    {
+        "id": 18,
+        "title": "拼花",
+        "img": "/uploads/20260309/微信图片_20260309083250_19_FjeL-6ivN369p_9UVQTfRItGcvi-.jpg",
+        "type": "icon",
+        "category_ids": "223,224",
+        "type2": "category",
+        "weigh": 0,
+        "content": "",
+        "img_path": "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309083250_19_FjeL-6ivN369p_9UVQTfRItGcvi-.jpg?imageView2/0/w/1000"
+    }
+]

@@ -39,7 +39,7 @@ const usersDB = {
 const categoriesDB = {
   // 获取所有分类
   getAll() {
-    return db.collection('categories').orderBy('sort', 'asc').get()
+    return db.collection('categories').limit(1000).get()
   },
 
   // 获取顶级分类

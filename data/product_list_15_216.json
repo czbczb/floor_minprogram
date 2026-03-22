@@ -1,0 +1,223 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "time": "1774092599",
+  "data": [
+    {
+      "id": 2615,
+      "category_id": 216,
+      "weigh": 2617,
+      "model": "3201",
+      "description": "吸水砖300*300     15片/件    22公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308153257_FgSF6Uh5PxxqPHsnYVvBKFZaaUbk.jpg",
+      "images": "/uploads/20260308/微信图片_20260308153302_FrFxkr5Xj66rhX6yAs68M9chU-lJ.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955784",
+      "time_text": "2026-03-08 15:43:04",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153257_FgSF6Uh5PxxqPHsnYVvBKFZaaUbk.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153302_FrFxkr5Xj66rhX6yAs68M9chU-lJ.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2614,
+      "category_id": 216,
+      "weigh": 2616,
+      "model": "3001",
+      "description": "吸水砖300*300     15片/件    22公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308153252_Fm0lIQxvbT0tX2lOfCeB-FMcPFse.jpg",
+      "images": "/uploads/20260308/微信图片_20260308153252_Fm0lIQxvbT0tX2lOfCeB-FMcPFse.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955755",
+      "time_text": "2026-03-08 15:42:35",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153252_Fm0lIQxvbT0tX2lOfCeB-FMcPFse.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153252_Fm0lIQxvbT0tX2lOfCeB-FMcPFse.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2613,
+      "category_id": 216,
+      "weigh": 2615,
+      "model": "3304",
+      "description": "吸水砖300*300     15片/件    22公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308153247_Fj---Vrxzhf1gPjzqOESxSjd3vMi.jpg",
+      "images": "/uploads/20260308/微信图片_20260308153247_Fj---Vrxzhf1gPjzqOESxSjd3vMi.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955727",
+      "time_text": "2026-03-08 15:42:07",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153247_Fj---Vrxzhf1gPjzqOESxSjd3vMi.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153247_Fj---Vrxzhf1gPjzqOESxSjd3vMi.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2612,
+      "category_id": 216,
+      "weigh": 2614,
+      "model": "3309",
+      "description": "吸水砖300*300     15片/件    22公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308153240_FrI7Fv8kXQohhDvzac5GvHNxtr2M.jpg",
+      "images": "/uploads/20260308/微信图片_20260308153240_FrI7Fv8kXQohhDvzac5GvHNxtr2M.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955688",
+      "time_text": "2026-03-08 15:41:28",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153240_FrI7Fv8kXQohhDvzac5GvHNxtr2M.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153240_FrI7Fv8kXQohhDvzac5GvHNxtr2M.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2611,
+      "category_id": 216,
+      "weigh": 2613,
+      "model": "3509",
+      "description": "吸水砖300*300     15片/件    22公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308153235_Fhqz7LgkztCemuIl7j2EPyAc8yzH.jpg",
+      "images": "/uploads/20260308/微信图片_20260308153235_Fhqz7LgkztCemuIl7j2EPyAc8yzH.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955656",
+      "time_text": "2026-03-08 15:40:56",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153235_Fhqz7LgkztCemuIl7j2EPyAc8yzH.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153235_Fhqz7LgkztCemuIl7j2EPyAc8yzH.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2610,
+      "category_id": 216,
+      "weigh": 2612,
+      "model": "3504",
+      "description": "吸水砖300*300     15片/件    22公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308153230_FgTO4Ffqdo8f0EmtOJt2Xlc1dpBD.jpg",
+      "images": "/uploads/20260308/微信图片_20260308153230_FgTO4Ffqdo8f0EmtOJt2Xlc1dpBD.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955625",
+      "time_text": "2026-03-08 15:40:25",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153230_FgTO4Ffqdo8f0EmtOJt2Xlc1dpBD.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153230_FgTO4Ffqdo8f0EmtOJt2Xlc1dpBD.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2616,
+      "category_id": 216,
+      "weigh": 2611,
+      "model": "6809",
+      "description": "吸水砖600*600   4片/件    35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308153302_FrFxkr5Xj66rhX6yAs68M9chU-lJ.jpg",
+      "images": "/uploads/20260308/微信图片_20260308153302_FrFxkr5Xj66rhX6yAs68M9chU-lJ.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955819",
+      "time_text": "2026-03-08 15:43:39",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153302_FrFxkr5Xj66rhX6yAs68M9chU-lJ.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153302_FrFxkr5Xj66rhX6yAs68M9chU-lJ.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2617,
+      "category_id": 216,
+      "weigh": 2610,
+      "model": "6909",
+      "description": "吸水砖600*600   4片/件    35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308153308_FkQd4wPC4Zcp8hdftTSLAOA8esnm.jpg",
+      "images": "/uploads/20260308/微信图片_20260308153308_FkQd4wPC4Zcp8hdftTSLAOA8esnm.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955851",
+      "time_text": "2026-03-08 15:44:11",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153308_FkQd4wPC4Zcp8hdftTSLAOA8esnm.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153308_FkQd4wPC4Zcp8hdftTSLAOA8esnm.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2609,
+      "category_id": 216,
+      "weigh": 2609,
+      "model": "6801",
+      "description": "吸水砖600*600   4片/件    35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308153225_FojICjv96ltXpEvsG4R3CiI4tlF1.jpg",
+      "images": "/uploads/20260308/微信图片_20260308153225_FojICjv96ltXpEvsG4R3CiI4tlF1.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955519",
+      "time_text": "2026-03-08 15:38:39",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153225_FojICjv96ltXpEvsG4R3CiI4tlF1.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153225_FojICjv96ltXpEvsG4R3CiI4tlF1.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2608,
+      "category_id": 216,
+      "weigh": 2608,
+      "model": "6901",
+      "description": "吸水砖600*600   4片/件    35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308153218_Fta5w1z-BkgVYkudiM2hcEQupxuO.jpg",
+      "images": "/uploads/20260308/微信图片_20260308153218_Fta5w1z-BkgVYkudiM2hcEQupxuO.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955490",
+      "time_text": "2026-03-08 15:38:10",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153218_Fta5w1z-BkgVYkudiM2hcEQupxuO.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153218_Fta5w1z-BkgVYkudiM2hcEQupxuO.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2607,
+      "category_id": 216,
+      "weigh": 2607,
+      "model": "6804",
+      "description": "吸水砖   4片/件    35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308153213_FsfFy-k0txSd_fP2sHekDHQsmK5X.jpg",
+      "images": "/uploads/20260308/微信图片_20260308153213_FsfFy-k0txSd_fP2sHekDHQsmK5X.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955438",
+      "time_text": "2026-03-08 15:37:18",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153213_FsfFy-k0txSd_fP2sHekDHQsmK5X.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153213_FsfFy-k0txSd_fP2sHekDHQsmK5X.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2605,
+      "category_id": 216,
+      "weigh": 2605,
+      "model": "6904",
+      "description": "吸水砖   4片/件    35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308153206_Fh9u2BL5LSqroDKiElcExc1myqhe.jpg",
+      "images": "/uploads/20260308/微信图片_20260308153206_Fh9u2BL5LSqroDKiElcExc1myqhe.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772955353",
+      "time_text": "2026-03-08 15:35:53",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153206_Fh9u2BL5LSqroDKiElcExc1myqhe.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308153206_Fh9u2BL5LSqroDKiElcExc1myqhe.jpg?imageView2/0/w/1000"
+      ]
+    }
+  ]
+}

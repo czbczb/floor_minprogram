@@ -1,0 +1,169 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "time": "1774092299",
+  "data": [
+    {
+      "id": 2399,
+      "category_id": 199,
+      "weigh": 2407,
+      "model": "8801",
+      "description": "雨溪 伊丽莎白 80*80 3片/件 42公斤/件  \r\n40*80  7片/件 37公斤",
+      "param": "",
+      "image": "/uploads/20260308/a661119707991a2d59af353fcecd35ac_Fl75FIyaM4R-5qwUmsyrH_5IiOpx.jpg",
+      "images": "/uploads/20260308/a661119707991a2d59af353fcecd35ac_Fl75FIyaM4R-5qwUmsyrH_5IiOpx.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772946695",
+      "time_text": "2026-03-08 13:11:35",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/a661119707991a2d59af353fcecd35ac_Fl75FIyaM4R-5qwUmsyrH_5IiOpx.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/a661119707991a2d59af353fcecd35ac_Fl75FIyaM4R-5qwUmsyrH_5IiOpx.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2400,
+      "category_id": 199,
+      "weigh": 2406,
+      "model": "8802",
+      "description": "雨溪 伊丽莎白80*80 3片/件 42公斤/件  \r\n40*80  7片/件 37公斤",
+      "param": "",
+      "image": "/uploads/20260308/690755bbc09b1e4d81147e60b8010ced_FkpStQ9_y_X6WZxEbiTbYarjvWha.jpg",
+      "images": "/uploads/20260308/690755bbc09b1e4d81147e60b8010ced_FkpStQ9_y_X6WZxEbiTbYarjvWha.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772946729",
+      "time_text": "2026-03-08 13:12:09",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/690755bbc09b1e4d81147e60b8010ced_FkpStQ9_y_X6WZxEbiTbYarjvWha.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/690755bbc09b1e4d81147e60b8010ced_FkpStQ9_y_X6WZxEbiTbYarjvWha.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2406,
+      "category_id": 199,
+      "weigh": 2405,
+      "model": "8803",
+      "description": "雨溪 伊丽莎白80*80 3片/件 42公斤/件  \r\n40*80  7片/件 37公斤",
+      "param": "",
+      "image": "/uploads/20260308/c32aafd494d76b1035c1b6e9620d2f58_FtsbGVuN3aT9-Nu8ZKOygyWRiAV7.jpg",
+      "images": "/uploads/20260308/c32aafd494d76b1035c1b6e9620d2f58_FtsbGVuN3aT9-Nu8ZKOygyWRiAV7.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772946893",
+      "time_text": "2026-03-08 13:14:53",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/c32aafd494d76b1035c1b6e9620d2f58_FtsbGVuN3aT9-Nu8ZKOygyWRiAV7.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/c32aafd494d76b1035c1b6e9620d2f58_FtsbGVuN3aT9-Nu8ZKOygyWRiAV7.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2403,
+      "category_id": 199,
+      "weigh": 2404,
+      "model": "8805",
+      "description": "雨溪 伊丽莎白80*80 3片/件 42公斤/件  \r\n40*80  7片/件 37公斤",
+      "param": "",
+      "image": "/uploads/20260308/3f34e1e05673afd99cc82f42a8cfff5a_FrUy-a0HMzYlPnPp7AqKVJxUFzui.jpg",
+      "images": "/uploads/20260308/3f34e1e05673afd99cc82f42a8cfff5a_FrUy-a0HMzYlPnPp7AqKVJxUFzui.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772946801",
+      "time_text": "2026-03-08 13:13:21",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/3f34e1e05673afd99cc82f42a8cfff5a_FrUy-a0HMzYlPnPp7AqKVJxUFzui.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/3f34e1e05673afd99cc82f42a8cfff5a_FrUy-a0HMzYlPnPp7AqKVJxUFzui.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2402,
+      "category_id": 199,
+      "weigh": 2403,
+      "model": "8806",
+      "description": "玉溪 伊丽莎白80*80 3片/件 42公斤/件  \r\n40*80  7片/件 37公斤",
+      "param": "",
+      "image": "/uploads/20260308/2e8cb0031705d5bb4f9f539e0bb61235_Fr80hbD0ZV-VSx2YuS7NFD6Q579k.jpg",
+      "images": "/uploads/20260308/2e8cb0031705d5bb4f9f539e0bb61235_Fr80hbD0ZV-VSx2YuS7NFD6Q579k.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772946771",
+      "time_text": "2026-03-08 13:12:51",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/2e8cb0031705d5bb4f9f539e0bb61235_Fr80hbD0ZV-VSx2YuS7NFD6Q579k.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/2e8cb0031705d5bb4f9f539e0bb61235_Fr80hbD0ZV-VSx2YuS7NFD6Q579k.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2404,
+      "category_id": 199,
+      "weigh": 2402,
+      "model": "8807",
+      "description": "雨溪 伊丽莎白80*80 3片/件 42公斤/件  \r\n40*80  7片/件 37公斤",
+      "param": "",
+      "image": "/uploads/20260308/121c490fd0f56255185754103d5cdda3_FhQWYhH-ErMN8Ar7Y4PwKGQFadjd.jpg",
+      "images": "/uploads/20260308/121c490fd0f56255185754103d5cdda3_FhQWYhH-ErMN8Ar7Y4PwKGQFadjd.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772946822",
+      "time_text": "2026-03-08 13:13:42",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/121c490fd0f56255185754103d5cdda3_FhQWYhH-ErMN8Ar7Y4PwKGQFadjd.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/121c490fd0f56255185754103d5cdda3_FhQWYhH-ErMN8Ar7Y4PwKGQFadjd.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2401,
+      "category_id": 199,
+      "weigh": 2401,
+      "model": "8808",
+      "description": "雨溪 伊丽莎白80*80 3片/件 42公斤/件  \r\n40*80  7片/件 37公斤",
+      "param": "",
+      "image": "/uploads/20260308/1de044ea0191f18d7626c67bf2306fd5_FsoXAfRCvefVZFde9G9CfxE63xBs.jpg",
+      "images": "/uploads/20260308/1de044ea0191f18d7626c67bf2306fd5_FsoXAfRCvefVZFde9G9CfxE63xBs.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772946750",
+      "time_text": "2026-03-08 13:12:30",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/1de044ea0191f18d7626c67bf2306fd5_FsoXAfRCvefVZFde9G9CfxE63xBs.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/1de044ea0191f18d7626c67bf2306fd5_FsoXAfRCvefVZFde9G9CfxE63xBs.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2405,
+      "category_id": 199,
+      "weigh": 2400,
+      "model": "8809",
+      "description": "雨溪 伊丽莎白80*80 3片/件 42公斤/件  \r\n40*80  7片/件 37公斤",
+      "param": "",
+      "image": "/uploads/20260308/b2949ff88e65bde59a553a6575bf2a7a_FhSIV533-u5CQE3ykKZIoA0njkKc.jpg",
+      "images": "/uploads/20260308/b2949ff88e65bde59a553a6575bf2a7a_FhSIV533-u5CQE3ykKZIoA0njkKc.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772946840",
+      "time_text": "2026-03-08 13:14:00",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/b2949ff88e65bde59a553a6575bf2a7a_FhSIV533-u5CQE3ykKZIoA0njkKc.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/b2949ff88e65bde59a553a6575bf2a7a_FhSIV533-u5CQE3ykKZIoA0njkKc.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2407,
+      "category_id": 199,
+      "weigh": 2399,
+      "model": "48010",
+      "description": "雨溪 伊丽莎白80*80 3片/件 42公斤/件  \r\n40*80  7片/件 37公斤",
+      "param": "",
+      "image": "/uploads/20260308/f38e91508f1732bed8d7c71c2834150f_FiXWThQdShoB_1v8oSp0LYirc71A.jpg",
+      "images": "/uploads/20260308/f38e91508f1732bed8d7c71c2834150f_FiXWThQdShoB_1v8oSp0LYirc71A.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772946919",
+      "time_text": "2026-03-08 13:15:19",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/f38e91508f1732bed8d7c71c2834150f_FiXWThQdShoB_1v8oSp0LYirc71A.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/f38e91508f1732bed8d7c71c2834150f_FiXWThQdShoB_1v8oSp0LYirc71A.jpg?imageView2/0/w/1000"
+      ]
+    }
+  ]
+}

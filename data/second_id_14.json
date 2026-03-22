@@ -1,0 +1,21 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "time": "1774092570",
+  "data": [
+    {
+      "id": 214,
+      "title": "古堡石300*600",
+      "weigh": 214,
+      "image": "/uploads/20260308/微信图片_20260308152153_Fj1BcWktNCk6CtD-mrrAfJcuOyW-.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308152153_Fj1BcWktNCk6CtD-mrrAfJcuOyW-.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 225,
+      "title": "薄板外墙",
+      "weigh": 225,
+      "image": "/uploads/20260309/微信图片_20260308171014_3410_FhhU4mK4sQemanzHEIVb1XEetdTb.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260308171014_3410_FhhU4mK4sQemanzHEIVb1XEetdTb.jpg?imageView2/0/w/1000"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "getData",
+  "version": "1.0.0",
+  "description": "获取导入数据",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "permissions": {
+    "openapi": []
+  },
+  "dependencies": {
+    "wx-server-sdk": "~2.6.3"
+  }
+}

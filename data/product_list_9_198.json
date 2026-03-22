@@ -1,0 +1,79 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "time": "1774092309",
+  "data": [
+    {
+      "id": 2398,
+      "category_id": 198,
+      "weigh": 2398,
+      "model": "2810",
+      "description": "雅芙特 3片/件 40公斤",
+      "param": "",
+      "image": "/uploads/20260308/a1151fc38c15d05e023af72da9c5c49e_Fvp-JI0hushdQOeWpgugSATVrsfM.jpg",
+      "images": "/uploads/20260308/a1151fc38c15d05e023af72da9c5c49e_Fvp-JI0hushdQOeWpgugSATVrsfM.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772946471",
+      "time_text": "2026-03-08 13:07:51",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/a1151fc38c15d05e023af72da9c5c49e_Fvp-JI0hushdQOeWpgugSATVrsfM.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/a1151fc38c15d05e023af72da9c5c49e_Fvp-JI0hushdQOeWpgugSATVrsfM.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2397,
+      "category_id": 198,
+      "weigh": 2397,
+      "model": "2813",
+      "description": "雅芙特 3片/件 40公斤",
+      "param": "",
+      "image": "/uploads/20260308/432c7ca22af2afd751107399ed2c6423_Ft6XXh5JHKF0Y7x6a1N2D3JH5rYz.jpg",
+      "images": "/uploads/20260308/432c7ca22af2afd751107399ed2c6423_Ft6XXh5JHKF0Y7x6a1N2D3JH5rYz.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772946456",
+      "time_text": "2026-03-08 13:07:36",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/432c7ca22af2afd751107399ed2c6423_Ft6XXh5JHKF0Y7x6a1N2D3JH5rYz.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/432c7ca22af2afd751107399ed2c6423_Ft6XXh5JHKF0Y7x6a1N2D3JH5rYz.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2396,
+      "category_id": 198,
+      "weigh": 2396,
+      "model": "2816",
+      "description": "雅芙特 3片/件 40公斤",
+      "param": "",
+      "image": "/uploads/20260308/8edd35ba23a540c8f90495ada63c9cfc_Fg4qpu7WI4kJyDFHEXVZDhYLkoGO.jpg",
+      "images": "/uploads/20260308/8edd35ba23a540c8f90495ada63c9cfc_Fg4qpu7WI4kJyDFHEXVZDhYLkoGO.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772946441",
+      "time_text": "2026-03-08 13:07:21",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/8edd35ba23a540c8f90495ada63c9cfc_Fg4qpu7WI4kJyDFHEXVZDhYLkoGO.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/8edd35ba23a540c8f90495ada63c9cfc_Fg4qpu7WI4kJyDFHEXVZDhYLkoGO.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2395,
+      "category_id": 198,
+      "weigh": 2395,
+      "model": "2811",
+      "description": "雅芙特 3片/件 40公斤",
+      "param": "",
+      "image": "/uploads/20260308/0babbecf0e574980005f5623cbd74a4d_FkE3zXX5iRAbTR-j9nVF5vJMFpwI.jpg",
+      "images": "/uploads/20260308/0babbecf0e574980005f5623cbd74a4d_FkE3zXX5iRAbTR-j9nVF5vJMFpwI.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772946427",
+      "time_text": "2026-03-08 13:07:07",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/0babbecf0e574980005f5623cbd74a4d_FkE3zXX5iRAbTR-j9nVF5vJMFpwI.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/0babbecf0e574980005f5623cbd74a4d_FkE3zXX5iRAbTR-j9nVF5vJMFpwI.jpg?imageView2/0/w/1000"
+      ]
+    }
+  ]
+}

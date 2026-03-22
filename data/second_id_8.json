@@ -1,0 +1,91 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "time": "1774092783",
+  "data": [
+    {
+      "id": 192,
+      "title": "精品地铺石 30*60*1.8",
+      "weigh": 192,
+      "image": "/uploads/20260308/微信图片_20260306101249_Fr2Gbn5-I53Xu4QcBx5P4QSHgjbC.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260306101249_Fr2Gbn5-I53Xu4QcBx5P4QSHgjbC.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 193,
+      "title": "热销地铺石 30*60*1.8",
+      "weigh": 193,
+      "image": "/uploads/20260308/76765e574ee5f7537a6a89d707620e95_FurVD42LHkfChTTc-yta0bpGpflp.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/76765e574ee5f7537a6a89d707620e95_FurVD42LHkfChTTc-yta0bpGpflp.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 194,
+      "title": "3C地铺石 30*60*1.8",
+      "weigh": 194,
+      "image": "/uploads/20260308/df4899a01dddb77eed3bfb0ae5f49610_Frqphk0VEHxOnBjnoMjcaknSov4N.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/df4899a01dddb77eed3bfb0ae5f49610_Frqphk0VEHxOnBjnoMjcaknSov4N.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 195,
+      "title": "银河系地铺石 30*60*1.8",
+      "weigh": 195,
+      "image": "/uploads/20260308/17268da9b231ce6ae10cf5829090bbe0_FnikjkD8F6vxZYavXJbPyEObzU2w.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/17268da9b231ce6ae10cf5829090bbe0_FnikjkD8F6vxZYavXJbPyEObzU2w.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 200,
+      "title": "轮胎纹地铺石 30*60*1.8",
+      "weigh": 200,
+      "image": "/uploads/20260308/微信图片_20260308132503_2225_Fj-__tr_fa-mqLk-SkahupADbLM7.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308132503_2225_Fj-__tr_fa-mqLk-SkahupADbLM7.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 201,
+      "title": "真通体地铺石 30*60*1.8",
+      "weigh": 201,
+      "image": "/uploads/20260308/91a389a3624a3f596406dd0dd8fde207_FkLiJMAbxSImSkV7YDy96AOyBDiX.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/91a389a3624a3f596406dd0dd8fde207_FkLiJMAbxSImSkV7YDy96AOyBDiX.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 227,
+      "title": "地铺石30*60*1.0",
+      "weigh": 227,
+      "image": "/uploads/20260309/eca28dac9bab6f60fc4018878292ebaa_Fgl6FUhDQKRY_kfTILSHcyV7ykym.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260309/eca28dac9bab6f60fc4018878292ebaa_Fgl6FUhDQKRY_kfTILSHcyV7ykym.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 228,
+      "title": "地铺石30*60*1.2",
+      "weigh": 228,
+      "image": "/uploads/20260309/微信图片_2026030909300421_8_FuDWWNJ8TZN89rEwiej1fxNJNSJR.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_2026030909300421_8_FuDWWNJ8TZN89rEwiej1fxNJNSJR.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 229,
+      "title": "精品地铺石60*60*1.8",
+      "weigh": 229,
+      "image": "/uploads/20260309/微信图片_20260309095126_285_FrdIOkm2qRMcX-C7UCu4zz01QP_R.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309095126_285_FrdIOkm2qRMcX-C7UCu4zz01QP_R.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 230,
+      "title": "地铺石60*60*1.2",
+      "weigh": 230,
+      "image": "/uploads/20260309/微信图片_20260309104852_337_Frc5nmEbsHa290f__zEAgR_2sxqd.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260309/微信图片_20260309104852_337_Frc5nmEbsHa290f__zEAgR_2sxqd.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 231,
+      "title": "地铺石60*120*1.2",
+      "weigh": 231,
+      "image": "/uploads/20260312/微信图片_2026031210054645_2_Fm7ygqyaAkvL-iGEYLVLzVsAKo3a.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260312/微信图片_2026031210054645_2_Fm7ygqyaAkvL-iGEYLVLzVsAKo3a.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 232,
+      "title": "地铺石60*120*1.8",
+      "weigh": 232,
+      "image": "/uploads/20260312/微信图片_2026031210060946_11_FiGgSVX9xSJjm_lf0E3rPwbhyimF.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260312/微信图片_2026031210060946_11_FiGgSVX9xSJjm_lf0E3rPwbhyimF.jpg?imageView2/0/w/1000"
+    }
+  ]
+}

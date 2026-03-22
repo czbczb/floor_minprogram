@@ -1,0 +1,35 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "time": "1774092286",
+  "data": [
+    {
+      "id": 196,
+      "title": "瓷莱美亮光",
+      "weigh": 196,
+      "image": "/uploads/20260308/1852ccdf4257153c325c6986817885c6_FtPEnD6wnyVE4rxo1uHvmvxvtHon.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/1852ccdf4257153c325c6986817885c6_FtPEnD6wnyVE4rxo1uHvmvxvtHon.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 197,
+      "title": "中源紫砂",
+      "weigh": 197,
+      "image": "/uploads/20260308/04906cc98752babd7da470062d0ef12d_FmfS9831kyX2vstoZBsG6yzUcr7v.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/04906cc98752babd7da470062d0ef12d_FmfS9831kyX2vstoZBsG6yzUcr7v.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 198,
+      "title": "雅芙特 走量款",
+      "weigh": 199,
+      "image": "/uploads/20260308/0babbecf0e574980005f5623cbd74a4d_FkE3zXX5iRAbTR-j9nVF5vJMFpwI.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/0babbecf0e574980005f5623cbd74a4d_FkE3zXX5iRAbTR-j9nVF5vJMFpwI.jpg?imageView2/0/w/1000"
+    },
+    {
+      "id": 199,
+      "title": "雨溪 伊丽莎白",
+      "weigh": 198,
+      "image": "/uploads/20260308/a661119707991a2d59af353fcecd35ac_Fl75FIyaM4R-5qwUmsyrH_5IiOpx.jpg",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/a661119707991a2d59af353fcecd35ac_Fl75FIyaM4R-5qwUmsyrH_5IiOpx.jpg?imageView2/0/w/1000"
+    }
+  ]
+}

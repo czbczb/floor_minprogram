@@ -1,0 +1,133 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "time": "1774092558",
+  "data": [
+    {
+      "id": 2567,
+      "category_id": 211,
+      "weigh": 2567,
+      "model": "6HP609",
+      "description": "古建砖    4片/件   35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308150353_FpNbO5sKdhjms7eFD5PdNxQPlBP4.jpg",
+      "images": "/uploads/20260308/微信图片_20260308150353_FpNbO5sKdhjms7eFD5PdNxQPlBP4.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772954443",
+      "time_text": "2026-03-08 15:20:43",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308150353_FpNbO5sKdhjms7eFD5PdNxQPlBP4.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308150353_FpNbO5sKdhjms7eFD5PdNxQPlBP4.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2566,
+      "category_id": 211,
+      "weigh": 2566,
+      "model": "6805",
+      "description": "古建砖    4片/件   35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308150346_FpV6U4NzJMz-5d33Tuoq26kdHPO7.jpg",
+      "images": "/uploads/20260308/微信图片_20260308150346_FpV6U4NzJMz-5d33Tuoq26kdHPO7.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772954409",
+      "time_text": "2026-03-08 15:20:09",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308150346_FpV6U4NzJMz-5d33Tuoq26kdHPO7.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308150346_FpV6U4NzJMz-5d33Tuoq26kdHPO7.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2565,
+      "category_id": 211,
+      "weigh": 2565,
+      "model": "66Y584",
+      "description": "古建砖   4片/件   35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308150333_FpeZf8ZJ5vT6cOJlWfdKEi8MerLH.jpg",
+      "images": "/uploads/20260308/微信图片_20260308150333_FpeZf8ZJ5vT6cOJlWfdKEi8MerLH.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772954359",
+      "time_text": "2026-03-08 15:19:19",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308150333_FpeZf8ZJ5vT6cOJlWfdKEi8MerLH.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308150333_FpeZf8ZJ5vT6cOJlWfdKEi8MerLH.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2564,
+      "category_id": 211,
+      "weigh": 2564,
+      "model": "6800",
+      "description": "古建砖    4片/件   35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308150327_FtilvAw20WEsEjThHvt5HGXJMqi5.jpg",
+      "images": "/uploads/20260308/微信图片_20260308150327_FtilvAw20WEsEjThHvt5HGXJMqi5.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772954308",
+      "time_text": "2026-03-08 15:18:28",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308150327_FtilvAw20WEsEjThHvt5HGXJMqi5.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308150327_FtilvAw20WEsEjThHvt5HGXJMqi5.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2561,
+      "category_id": 211,
+      "weigh": 2561,
+      "model": "6801",
+      "description": "古建砖   4片/件   35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308150321_FgxVFBAx-xN1thiHn9TZBIpj4tTS.jpg",
+      "images": "/uploads/20260308/微信图片_20260308150321_FgxVFBAx-xN1thiHn9TZBIpj4tTS.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772954264",
+      "time_text": "2026-03-08 15:17:44",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308150321_FgxVFBAx-xN1thiHn9TZBIpj4tTS.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308150321_FgxVFBAx-xN1thiHn9TZBIpj4tTS.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2554,
+      "category_id": 211,
+      "weigh": 2554,
+      "model": "6802",
+      "description": "古建砖   4片/件   35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308150314_FkGcHY8G2kjvbHTY2hNdoTy9fkCs.jpg",
+      "images": "/uploads/20260308/微信图片_20260308150314_FkGcHY8G2kjvbHTY2hNdoTy9fkCs.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772954203",
+      "time_text": "2026-03-08 15:16:43",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308150314_FkGcHY8G2kjvbHTY2hNdoTy9fkCs.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308150314_FkGcHY8G2kjvbHTY2hNdoTy9fkCs.jpg?imageView2/0/w/1000"
+      ]
+    },
+    {
+      "id": 2552,
+      "category_id": 211,
+      "weigh": 2552,
+      "model": "6803",
+      "description": "古建砖   4片/件    35公斤/件",
+      "param": "",
+      "image": "/uploads/20260308/微信图片_20260308150258_Fpwg-xv9nGQXGSEbidy8e7OJ5kvW.jpg",
+      "images": "/uploads/20260308/微信图片_20260308150258_Fpwg-xv9nGQXGSEbidy8e7OJ5kvW.jpg",
+      "copy": null,
+      "copy2": null,
+      "time": "1772954130",
+      "time_text": "2026-03-08 15:15:30",
+      "image_path": "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308150258_Fpwg-xv9nGQXGSEbidy8e7OJ5kvW.jpg?imageView2/0/w/1000",
+      "images_path": [
+        "https://v-erp.cdn.xingningjt.com/uploads/20260308/微信图片_20260308150258_Fpwg-xv9nGQXGSEbidy8e7OJ5kvW.jpg?imageView2/0/w/1000"
+      ]
+    }
+  ]
+}
